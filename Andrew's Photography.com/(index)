@@ -1,0 +1,1881 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+	<title>World In My Lens</title>
+	<meta name="author" content="Piotr Kulczycki" >
+	<meta name="Keywords" content="Travel Photography" />
+	<meta name="description" content="My name is Piotr Kulczycki and I'm travel photographer from Poznan, Poland. On this website you can find photography from Europe, Asia, America and Africa.">
+
+	
+	<meta property="og:image" content="http://photler.com/web/uploads/14/duze-zdjecia-wiml-d4fe6.jpg">
+			<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		<meta property="og:description" content="World In My Lens">
+	<meta property="og:url" content="http://worldinmylens.com/">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="World In My Lens">
+	<meta property="og:site_name" content="World In My Lens">
+
+	<meta name="google-site-verification" content="">
+
+	<meta property="DC.title" content="World In My Lens"/>
+	<meta property="DC.description" content="My name is Piotr Kulczycki and I'm travel photographer from Poznan, Poland. On this website you can find photography from Europe, Asia, America and Africa."/>
+	<meta property="DC.creator" content="photler.com"/>
+	<meta property="DC.publisher" content="photler.com"/>
+	<meta property="DC.language" content="en-EN"/>
+	<meta property="DC.rights" content="photler.com"/>
+	<meta property="geo.position" content="52.230139,21.012683"/>
+	<meta property="geo.placename" content="Warszawa,Województwo Mazowieckie,Poland"/>
+	<meta property="geo.region" content="PL-MZ"/>
+	<meta property="ICBM" content="52.230139,21.012683"/>
+	<link rel="alternate" type="application/rss+xml" title="World In My Lens Blog &raquo; Feed" href="http://worldinmylens.com/page/blog/rss" />
+
+	<link href="http://worldinmylens.com" rel='canonical'/>
+		<meta name="robots" content="index,follow,all" />
+	<meta name="googlebot" content="all"/>
+	
+			<link rel="shortcut icon" href="http://photler.com/web/uploads/97/wiml-96722.png">
+		<!--<link rel="apple-touch-icon" sizes="57x57" href="http://photler.com/web/uploads/97/wiml-791cb.png">
+		<link rel="apple-touch-icon" sizes="60x60" href="http://photler.com/web/uploads/97/wiml-eca6e.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="http://photler.com/web/uploads/97/wiml-04944.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="http://photler.com/web/uploads/97/wiml-824a7.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="http://photler.com/web/uploads/97/wiml-5c886.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="http://photler.com/web/uploads/97/wiml-5eb1e.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="http://photler.com/web/uploads/97/wiml-0c058.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="http://photler.com/web/uploads/97/wiml-4c509.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="http://photler.com/web/uploads/97/wiml-bf683.png">
+		<link rel="icon" type="image/png" href="http://photler.com/web/uploads/97/wiml-d5890.png" sizes="32x32">
+		<!--<link rel="icon" type="image/png" href="http://photler.com/web/uploads/97/wiml-198ca.png" sizes="194x194">
+		<link rel="icon" type="image/png" href="http://photler.com/web/uploads/97/wiml-cce42.png" sizes="96x96">
+		<link rel="icon" type="image/png" href="http://photler.com/web/uploads/97/wiml-88c2f.png" sizes="192x192">
+		<link rel="icon" type="image/png" href="http://photler.com/web/uploads/97/wiml-96722.png" sizes="16x16">-->
+		<meta name="msapplication-TileColor" content="#da532c">
+		<meta name="msapplication-TileImage" content="http://photler.com/web/uploads/97/wiml-0c058.png">
+		<meta name="theme-color" content="#ffffff">
+			
+	<!--[if IE]>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<script type="text/javascript" >
+		var hostUrl = 'http://photler.com/web/portfolio/theme1/';
+		var currentUri = '';
+		var imgUrl = hostUrl+'/img/';
+		var jsLang = {};
+		var zoomGmapToLastMarker = 0;
+		var isMobileVersion = 0;
+
+		var popAuthURL = 'http://worldinmylens.com/auth_pop';
+		var ajaxExecURL = 'http://worldinmylens.com/ajax_exec';
+
+		var disqusShortname = '';
+		var singleGalleryMode = 0;
+		var gmapsKey = 'AIzaSyCSDR6LbhiV8QvryvPFOm93e6vHIhTiTwk';
+
+		if( typeof(document.pageParams) == 'undefined' ) document.pageParams = Object();
+	</script>
+	<!-- <link href="http://photler.com/web/portfolio/theme1/stylesheets/style.css" rel="stylesheet" type="text/css" > -->
+		<link href="http://worldinmylens.com/web/userstyles/9/theme1style.css?kniE1" rel="stylesheet" type="text/css" >
+	<link type="text/css" rel="stylesheet" href="http://photler.com/web/portfolio/theme1/css/other.css" />
+		<style type="text/css">
+				/* global classes */
+		.theme-bgColor-c { color: #000000!important; }
+		.theme-bgColor-bg { background-color: #000000 !important; }
+		.theme-mainColor-c { color: #7f7f7f!important; }
+		.theme-mainColor-bg { background-color: #7f7f7f !important; }
+		.theme-headColor-c { color: #ffffff!important; }
+		.theme-headColor-bg { background-color: #ffffff !important; }
+		.theme-textColor-c { color: #ffffff!important; }
+		.theme-textColor-bg { background-color: #ffffff !important; }
+		.theme-headFont-f { font-family: 'montserrat' !important; }
+		.theme-subHeadFont-f { font-family: 'albertina_dtl' !important; }
+		.theme-bodyFont-f { font-family: 'montserrat' !important; }
+
+		/*special overwrite*/
+		section.news-slider .page-slider-item .intro > header h1,
+		section.news-slider .page-slider-item .intro > header h2 {
+			color: #ffffff!important;
+		}
+
+		section.news-slider .page-slider-item .intro > a.bt-slide-anim {
+			border-color: #ffffff!important;
+			color: #ffffff!important;
+		}
+		section.news-slider .page-slider-item .intro > a.bt-slide-anim:hover {
+			color: #000000!important;
+		}
+		section.news-slider .page-slider-item .intro > a.bt-slide-anim:before {
+			background-color: #ffffff!important;
+		}
+
+		.subpage-gallery-description .vcenter > div header h2 {
+			color: #ffffff!important;
+		}
+		.subpage-gallery-description .vcenter > div header .text .text-basic,
+		.subpage-gallery-description .vcenter > div header .text .text-extend {
+			color: #ffffff!important;
+		}
+
+		.home-gmap .gmap-contener .header h1,
+		.home-gmap .gmap-contener .header h2,
+		.home-gmap .gmap-contener .header h3,
+		.subpage-gmap .gmap-contener .header h1,
+		.subpage-gmap .gmap-contener .header h2,
+		.subpage-gmap .gmap-contener .header h4,
+		.subpage-gmap .gmap-contener .header .text,
+		.subpage-gmap .gmap-contener .header .text-basic {
+			color: #fff!important;
+		}
+
+		.subpage-gmap .gmap-contener .header a._WhiteBorderBox {
+			color: #fff!important;
+			border: 2px solid #fff!important;;
+		}
+
+		.subpage-gmap .gmap-contener .header a._WhiteBorderBox:hover {
+			color: #000!important;
+		}
+
+		.wiml-gallerieslist header h1,
+		.wiml-gallerieslist header h2 {
+			color: #ffffff!important;
+		}
+		.wiml-gallerieslist .ir-grid-item .hover:after {
+			border-color: #ffffff!important;
+		}
+
+		.aside-menu-contener {
+			background-color: #7f7f7f!important;
+		}
+		@media screen and (min-width: 768px) {
+			.aside-menu-contener {
+				background-color: transparent !important;
+			}
+		}
+
+		.menu-item .mCS-wiml > .mCSB_wideButtonUp,
+		.menu-item .mCS-wiml > .mCSB_wideButtonDown {
+			background-color: #7f7f7f!important;
+		}
+
+		.menu-item .mCS-wiml > .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
+			background-color: #7f7f7f!important;
+		}
+		.aside-menu-contener .menu-item.menuContent-contact > div ul.contact-list li 	a .contact-icon {
+			background-color: #7f7f7f!important;
+		}
+
+		.home-gmap .gmap-contener > a.ZoomOut i,
+		.home-gmap .gmap-contener > a.ZoomIn i {
+			/* color: #7f7f7f!important; */
+		}
+
+		.subpage-gmap .gmap-contener .header h1,
+		section.news-slider .page-slider-item .intro > header h1,
+		.wiml-gallerieslist header h1 {
+			font-family: montserrat!important;
+		}
+		.subpage-gmap .gmap-contener .header h2,
+		section.news-slider .page-slider-item .intro > header h2,
+		.wiml-gallerieslist header h2 {
+			font-family: albertina_dtl!important;
+			font-style: italic;
+		}
+
+		.subpage-gallery-description .vcenter > div header .text .text-basic,
+		.subpage-gallery-description .vcenter > div header .text .text-extend {
+			font-family: montserrat!important;
+		}
+
+		.jsLayoutFluid {
+			display: none;
+			width: 100%;
+		}
+
+
+	</style>
+
+			<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+					(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			ga('create', 'UA-2189644-1', 'auto');
+			ga('send', 'pageview');
+		</script>
+		<script src="https://apis.google.com/js/platform.js" async defer>
+		/* {lang: 'en', parsetags: 'explicit'} */
+	</script>
+</head>
+<body class="" data-template="1" data-lightbox="single" data-single="0">
+<div id="fb-root"></div>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) return;
+		js = d.createElement(s); js.id = id;
+		js.src = "//connect.facebook.net/en_EN/sdk.js#xfbml=1&version=v2.5";
+		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="loader" style="display: none;"><div class="loaderwrapper"><div class="cssloader">Loading...</div></div></div>
+
+<div id="PopupWindow-placeholder"></div>
+<div class="jsHoverRefresherAfterScroll"></div>
+<header class="jsUserPanelHelp" data-hide-on-hover="1">
+	<div class="bg jsHeaderFixedBg"></div>
+
+			<a href="http://worldinmylens.com/" class="logo icon-ico-Wiml jsHeaderFixedLogo">
+				<span class="logo icon-ico-Wiml jsHeaderFixedLogo">
+											<img src="http://photler.com/web/uploads/51/logowiml-def72.png" alt="World In My Lens" class="hireslogo_x1">
+						<img src="http://photler.com/web/uploads/51/logowiml-9bb31.png" alt="World In My Lens" class="hireslogo_x2">
+						<img src="http://photler.com/web/uploads/51/logowiml-76dc5.png" alt="World In My Lens" class="hireslogo_x3">
+									</span>
+		</a>
+	
+</header>
+
+<a class="menu-handler jsAsideMenu-MainOpenAnchor"><span class="icon icon-ico-CloseMenu"></span><span class="label">Menu</span></a>
+
+<div class="aside-menu-contener IsFixed jsAsideMenu-MainContener closed">
+	<div class="menu-screen-overlay jsMenu-ScreenOverlay"></div>
+	<a class="close icon-ico-xClose  jsAsideMenu-ManinCloseAnchor"><span>Close</span></a>
+	<a class="back icon-ico-NavArrowLeft  jsAsideMenu-ManinBackAnchor"><span>Back</span></a>
+
+
+	<div class="menu-spacer">
+		<div class="menu-pusher">
+			<div class="menu-item bg-01 menuWithScrollBar menu-col-01 jsAsideMenu-contener jsAsideMenu-00 jsSlider-Contener">
+				<a class="nav-up icon-ico-NavArrowUp hide jsSlider-GoUp"></a>
+				<a class="nav-down icon-ico-NavArrowDown hide jsSlider-GoDown"></a>
+				<div class="overlay jsSlider-OverlayContener">
+					<div class="mover jsSlider-MoverContener">
+
+																												<a href="http://worldinmylens.com"  class="nav-url jsLinkhome" >Home</a>
+																																			<a href=""  rev="jsAsideMenu-03" class="nav-url jsAsideMenu-Anchor jsLinkgalleries" >Galleries</a>
+																																			<a href="http://worldinmylens.com/page/blog"  rev="jsAsideMenu-06" class="nav-url jsAsideMenu-Anchor jsLinkblog" >News</a>
+																																			<a href="http://worldinmylens.com/page/about-me"  class="nav-url" >About me</a>
+																																			<a href="http://worldinmylens.com/page/contact"  rev="jsAsideMenu-05" class="nav-url jsAsideMenu-Anchor jsLinkcontact" >Contact</a>
+																		</div>
+				</div>
+			</div>
+			
+			
+			
+							<div class="menu-item bg-02 menuWithScrollBar menu-col-02 jsAsideMenu-03 jsSlider-Contener closed onTop">
+					<a class="nav-up icon-ico-NavArrowUp hide jsSlider-GoUp"></a>
+					<a class="nav-down icon-ico-NavArrowDown hide jsSlider-GoDown"></a>
+					<div class="overlay jsSlider-OverlayContener test-top">
+						<div class="mover jsSlider-MoverContener">
+																<a href="" rev="jsAsideMenu-03-1" class="nav-url jsAsideMenu-Anchor"><span>Europe</span></a>
+																	<a href="" rev="jsAsideMenu-03-2" class="nav-url jsAsideMenu-Anchor"><span>Asia</span></a>
+																	<a href="" rev="jsAsideMenu-03-3" class="nav-url jsAsideMenu-Anchor"><span>North America</span></a>
+																	<a href="" rev="jsAsideMenu-03-4" class="nav-url jsAsideMenu-Anchor"><span>South America</span></a>
+																	<a href="" rev="jsAsideMenu-03-5" class="nav-url jsAsideMenu-Anchor"><span>Africa</span></a>
+																	<a href="" rev="jsAsideMenu-03-6" class="nav-url jsAsideMenu-Anchor"><span>Oceania</span></a>
+														</div>
+					</div>
+				</div>
+
+									<div class="menu-item menuWithScrollBar bg-03 menu-col-03 jsAsideMenu-03-1 jsSlider-Contener closed onTop">
+						<a class="nav-up icon-ico-NavArrowUp hide jsSlider-GoUp"></a>
+						<a class="nav-down icon-ico-NavArrowDown hide jsSlider-GoDown"></a>
+						<div class="overlay jsSlider-OverlayContener test-sub">
+							<div class="mover jsSlider-MoverContener">
+																										<a href="http://worldinmylens.com/galleries/albania" class="nav-url"><span>Albania</span></a>
+																										<a href="http://worldinmylens.com/galleries/armenia" class="nav-url"><span>Armenia</span></a>
+																										<a href="http://worldinmylens.com/galleries/austria" class="nav-url"><span>Austria</span></a>
+																										<a href="http://worldinmylens.com/galleries/belarus" class="nav-url"><span>Belarus</span></a>
+																										<a href="http://worldinmylens.com/galleries/belgium" class="nav-url"><span>Belgium</span></a>
+																										<a href="http://worldinmylens.com/galleries/bosnia-and-herzegovina" class="nav-url"><span>Bosnia and Herzegovina</span></a>
+																										<a href="http://worldinmylens.com/galleries/bulgaria" class="nav-url"><span>Bulgaria</span></a>
+																										<a href="http://worldinmylens.com/galleries/croatia" class="nav-url"><span>Croatia</span></a>
+																										<a href="http://worldinmylens.com/galleries/cyprus" class="nav-url"><span>Cyprus</span></a>
+																										<a href="http://worldinmylens.com/galleries/czech-republic" class="nav-url"><span>Czech Republic</span></a>
+																										<a href="http://worldinmylens.com/galleries/denmark" class="nav-url"><span>Denmark</span></a>
+																										<a href="http://worldinmylens.com/galleries/estonia" class="nav-url"><span>Estonia</span></a>
+																										<a href="http://worldinmylens.com/galleries/finland" class="nav-url"><span>Finland</span></a>
+																										<a href="http://worldinmylens.com/galleries/france" class="nav-url"><span>France</span></a>
+																										<a href="http://worldinmylens.com/galleries/georgia" class="nav-url"><span>Georgia</span></a>
+																										<a href="http://worldinmylens.com/galleries/germany" class="nav-url"><span>Germany</span></a>
+																										<a href="http://worldinmylens.com/galleries/greece" class="nav-url"><span>Greece</span></a>
+																										<a href="http://worldinmylens.com/galleries/greenland" class="nav-url"><span>Greenland</span></a>
+																										<a href="http://worldinmylens.com/galleries/hungary" class="nav-url"><span>Hungary</span></a>
+																										<a href="http://worldinmylens.com/galleries/iceland" class="nav-url"><span>Iceland</span></a>
+																										<a href="http://worldinmylens.com/galleries/ireland" class="nav-url"><span>Ireland</span></a>
+																										<a href="http://worldinmylens.com/galleries/italy" class="nav-url"><span>Italy</span></a>
+																										<a href="http://worldinmylens.com/galleries/kosovo" class="nav-url"><span>Kosovo</span></a>
+																										<a href="http://worldinmylens.com/galleries/latvia" class="nav-url"><span>Latvia</span></a>
+																										<a href="http://worldinmylens.com/galleries/liechtenstein" class="nav-url"><span>Liechtenstein</span></a>
+																										<a href="http://worldinmylens.com/galleries/lithuania" class="nav-url"><span>Lithuania</span></a>
+																										<a href="http://worldinmylens.com/galleries/luxembourg" class="nav-url"><span>Luxembourg</span></a>
+																										<a href="http://worldinmylens.com/galleries/macedonia" class="nav-url"><span>Macedonia</span></a>
+																										<a href="http://worldinmylens.com/galleries/malta" class="nav-url"><span>Malta</span></a>
+																										<a href="http://worldinmylens.com/galleries/moldova" class="nav-url"><span>Moldova</span></a>
+																										<a href="http://worldinmylens.com/galleries/monaco" class="nav-url"><span>Monaco</span></a>
+																										<a href="http://worldinmylens.com/galleries/montenegro" class="nav-url"><span>Montenegro</span></a>
+																										<a href="http://worldinmylens.com/galleries/netherlands" class="nav-url"><span>Netherlands</span></a>
+																										<a href="http://worldinmylens.com/galleries/norway" class="nav-url"><span>Norway</span></a>
+																										<a href="http://worldinmylens.com/galleries/poland" class="nav-url"><span>Poland</span></a>
+																										<a href="http://worldinmylens.com/galleries/portugal" class="nav-url"><span>Portugal</span></a>
+																										<a href="http://worldinmylens.com/galleries/romania" class="nav-url"><span>Romania</span></a>
+																										<a href="http://worldinmylens.com/galleries/russia" class="nav-url"><span>Russia</span></a>
+																										<a href="http://worldinmylens.com/galleries/serbia" class="nav-url"><span>Serbia</span></a>
+																										<a href="http://worldinmylens.com/galleries/slovakia" class="nav-url"><span>Slovakia</span></a>
+																										<a href="http://worldinmylens.com/galleries/slovenia" class="nav-url"><span>Slovenia</span></a>
+																										<a href="http://worldinmylens.com/galleries/spain" class="nav-url"><span>Spain</span></a>
+																										<a href="http://worldinmylens.com/galleries/sweden" class="nav-url"><span>Sweden</span></a>
+																										<a href="http://worldinmylens.com/galleries/switzerland" class="nav-url"><span>Switzerland</span></a>
+																										<a href="http://worldinmylens.com/galleries/ukraine" class="nav-url"><span>Ukraine</span></a>
+																										<a href="http://worldinmylens.com/galleries/united-kingdom" class="nav-url"><span>United Kingdom</span></a>
+																										<a href="http://worldinmylens.com/galleries/holy-see-vatican-city" class="nav-url"><span>Vatican</span></a>
+															</div>
+						</div>
+					</div>
+									<div class="menu-item menuWithScrollBar bg-03 menu-col-03 jsAsideMenu-03-2 jsSlider-Contener closed onTop">
+						<a class="nav-up icon-ico-NavArrowUp hide jsSlider-GoUp"></a>
+						<a class="nav-down icon-ico-NavArrowDown hide jsSlider-GoDown"></a>
+						<div class="overlay jsSlider-OverlayContener test-sub">
+							<div class="mover jsSlider-MoverContener">
+																										<a href="http://worldinmylens.com/galleries/azerbaijan" class="nav-url"><span>Azerbaijan</span></a>
+																										<a href="http://worldinmylens.com/galleries/bahrain" class="nav-url"><span>Bahrain</span></a>
+																										<a href="http://worldinmylens.com/galleries/bangladesh" class="nav-url"><span>Bangladesh</span></a>
+																										<a href="http://worldinmylens.com/galleries/cambodia" class="nav-url"><span>Cambodia</span></a>
+																										<a href="http://worldinmylens.com/galleries/china" class="nav-url"><span>China</span></a>
+																										<a href="http://worldinmylens.com/galleries/hong-kong" class="nav-url"><span>Hong Kong</span></a>
+																										<a href="http://worldinmylens.com/galleries/india" class="nav-url"><span>India</span></a>
+																										<a href="http://worldinmylens.com/galleries/indonesia" class="nav-url"><span>Indonesia</span></a>
+																										<a href="http://worldinmylens.com/galleries/iran" class="nav-url"><span>Iran</span></a>
+																										<a href="http://worldinmylens.com/galleries/israel" class="nav-url"><span>Israel</span></a>
+																										<a href="http://worldinmylens.com/galleries/jordan" class="nav-url"><span>Jordan</span></a>
+																										<a href="http://worldinmylens.com/galleries/kazakhstan" class="nav-url"><span>Kazakhstan</span></a>
+																										<a href="http://worldinmylens.com/galleries/kuwait" class="nav-url"><span>Kuwait</span></a>
+																										<a href="http://worldinmylens.com/galleries/kyrgyzstan" class="nav-url"><span>Kyrgyzstan</span></a>
+																										<a href="http://worldinmylens.com/galleries/lebanon" class="nav-url"><span>Lebanon</span></a>
+																										<a href="http://worldinmylens.com/galleries/macau" class="nav-url"><span>Macau</span></a>
+																										<a href="http://worldinmylens.com/galleries/malaysia" class="nav-url"><span>Malaysia</span></a>
+																										<a href="http://worldinmylens.com/galleries/myanmar" class="nav-url"><span>Myanmar</span></a>
+																										<a href="http://worldinmylens.com/galleries/nepal" class="nav-url"><span>Nepal</span></a>
+																										<a href="http://worldinmylens.com/galleries/oman" class="nav-url"><span>Oman</span></a>
+																										<a href="http://worldinmylens.com/galleries/qatar" class="nav-url"><span>Qatar</span></a>
+																										<a href="http://worldinmylens.com/galleries/saudi-arabia" class="nav-url"><span>Saudi Arabia</span></a>
+																										<a href="http://worldinmylens.com/galleries/singapore" class="nav-url"><span>Singapore</span></a>
+																										<a href="http://worldinmylens.com/galleries/sri-lanka" class="nav-url"><span>Sri Lanka</span></a>
+																										<a href="http://worldinmylens.com/galleries/taiwan" class="nav-url"><span>Taiwan</span></a>
+																										<a href="http://worldinmylens.com/galleries/thailand" class="nav-url"><span>Thailand</span></a>
+																										<a href="http://worldinmylens.com/galleries/turkey" class="nav-url"><span>Turkey</span></a>
+																										<a href="http://worldinmylens.com/galleries/united-arab-emirates" class="nav-url"><span>United Arab Emirates</span></a>
+																										<a href="http://worldinmylens.com/galleries/uzbekistan" class="nav-url"><span>Uzbekistan</span></a>
+																										<a href="http://worldinmylens.com/galleries/vietnam" class="nav-url"><span>Vietnam</span></a>
+															</div>
+						</div>
+					</div>
+									<div class="menu-item menuWithScrollBar bg-03 menu-col-03 jsAsideMenu-03-3 jsSlider-Contener closed onTop">
+						<a class="nav-up icon-ico-NavArrowUp hide jsSlider-GoUp"></a>
+						<a class="nav-down icon-ico-NavArrowDown hide jsSlider-GoDown"></a>
+						<div class="overlay jsSlider-OverlayContener test-sub">
+							<div class="mover jsSlider-MoverContener">
+																										<a href="http://worldinmylens.com/galleries/barbados" class="nav-url"><span>Barbados</span></a>
+																										<a href="http://worldinmylens.com/galleries/canada" class="nav-url"><span>Canada</span></a>
+																										<a href="http://worldinmylens.com/galleries/cuba" class="nav-url"><span>Cuba</span></a>
+																										<a href="http://worldinmylens.com/galleries/mexico" class="nav-url"><span>Mexico</span></a>
+																										<a href="http://worldinmylens.com/galleries/puerto-rico" class="nav-url"><span>Puerto Rico</span></a>
+																										<a href="http://worldinmylens.com/galleries/saint-lucia" class="nav-url"><span>Saint Lucia</span></a>
+																										<a href="http://worldinmylens.com/galleries/sint-maarten" class="nav-url"><span>Sint Maarten</span></a>
+																										<a href="http://worldinmylens.com/galleries/united-states" class="nav-url"><span>United States</span></a>
+																										<a href="http://worldinmylens.com/galleries/virgin-islands" class="nav-url"><span>Virgin Islands</span></a>
+															</div>
+						</div>
+					</div>
+									<div class="menu-item menuWithScrollBar bg-03 menu-col-03 jsAsideMenu-03-4 jsSlider-Contener closed onTop">
+						<a class="nav-up icon-ico-NavArrowUp hide jsSlider-GoUp"></a>
+						<a class="nav-down icon-ico-NavArrowDown hide jsSlider-GoDown"></a>
+						<div class="overlay jsSlider-OverlayContener test-sub">
+							<div class="mover jsSlider-MoverContener">
+																										<a href="http://worldinmylens.com/galleries/argentina" class="nav-url"><span>Argentina</span></a>
+																										<a href="http://worldinmylens.com/galleries/brazil" class="nav-url"><span>Brazil</span></a>
+																										<a href="http://worldinmylens.com/galleries/chile" class="nav-url"><span>Chile</span></a>
+																										<a href="http://worldinmylens.com/galleries/paraguay" class="nav-url"><span>Paraguay</span></a>
+																										<a href="http://worldinmylens.com/galleries/peru" class="nav-url"><span>Peru</span></a>
+															</div>
+						</div>
+					</div>
+									<div class="menu-item menuWithScrollBar bg-03 menu-col-03 jsAsideMenu-03-5 jsSlider-Contener closed onTop">
+						<a class="nav-up icon-ico-NavArrowUp hide jsSlider-GoUp"></a>
+						<a class="nav-down icon-ico-NavArrowDown hide jsSlider-GoDown"></a>
+						<div class="overlay jsSlider-OverlayContener test-sub">
+							<div class="mover jsSlider-MoverContener">
+																										<a href="http://worldinmylens.com/galleries/botswana" class="nav-url"><span>Botswana</span></a>
+																										<a href="http://worldinmylens.com/galleries/egypt" class="nav-url"><span>Egypt</span></a>
+																										<a href="http://worldinmylens.com/galleries/ethiopia" class="nav-url"><span>Ethiopia</span></a>
+																										<a href="http://worldinmylens.com/galleries/lesotho" class="nav-url"><span>Lesotho</span></a>
+																										<a href="http://worldinmylens.com/galleries/mauritius" class="nav-url"><span>Mauritius</span></a>
+																										<a href="http://worldinmylens.com/galleries/morocco" class="nav-url"><span>Morocco</span></a>
+																										<a href="http://worldinmylens.com/galleries/namibia" class="nav-url"><span>Namibia</span></a>
+																										<a href="http://worldinmylens.com/galleries/seychelles" class="nav-url"><span>Seychelles</span></a>
+																										<a href="http://worldinmylens.com/galleries/south-africa" class="nav-url"><span>South Africa</span></a>
+																										<a href="http://worldinmylens.com/galleries/swaziland" class="nav-url"><span>Swaziland</span></a>
+																										<a href="http://worldinmylens.com/galleries/tanzania" class="nav-url"><span>Tanzania</span></a>
+																										<a href="http://worldinmylens.com/galleries/tunisia" class="nav-url"><span>Tunisia</span></a>
+																										<a href="http://worldinmylens.com/galleries/uganda" class="nav-url"><span>Uganda</span></a>
+																										<a href="http://worldinmylens.com/galleries/zambia" class="nav-url"><span>Zambia</span></a>
+																										<a href="http://worldinmylens.com/galleries/zimbabwe" class="nav-url"><span>Zimbabwe</span></a>
+															</div>
+						</div>
+					</div>
+									<div class="menu-item menuWithScrollBar bg-03 menu-col-03 jsAsideMenu-03-6 jsSlider-Contener closed onTop">
+						<a class="nav-up icon-ico-NavArrowUp hide jsSlider-GoUp"></a>
+						<a class="nav-down icon-ico-NavArrowDown hide jsSlider-GoDown"></a>
+						<div class="overlay jsSlider-OverlayContener test-sub">
+							<div class="mover jsSlider-MoverContener">
+																										<a href="http://worldinmylens.com/galleries/australia" class="nav-url"><span>Australia</span></a>
+																										<a href="http://worldinmylens.com/galleries/new-zealand" class="nav-url"><span>New Zealand</span></a>
+															</div>
+						</div>
+					</div>
+							
+
+																																				<div class="menu-item bg-02 menu-col-02 jsAsideMenu-page-271 w540 menuContent-about closed">
+						<div class="jsMcScrollbar">
+							<div class="spacer">
+															</div>
+						</div>
+					</div>
+														
+						<div class="menu-item password bg-02 menu-col-02 jsAsideMenu-05 w540 menuContent-contact closed">
+				<div class="jsMcScrollbar">
+					<div class="spacer">
+						<article>
+							<h2>this gallery is protected by password</h2>
+							<p>Please enter the password to see the contents</p>
+						</article>
+
+						<article>
+															<form data-action="#" action="#" method="post" class="jsAuthForm">
+									<input type="hidden" value="gallAuthPop" name="res_type" id="res_type">
+									<input type="hidden" value="" name="res_id" id="res_id">
+
+									<fieldset>
+										<input type="text" value="" id="res_password" name="res_password" class="form_input jsAuthPass required" required="" placeholder="Enter your password">
+																				<button class="jsAuthButton"><span data-hover="send">Send</span></button>
+									</fieldset>
+								</form>
+							
+							<div class="param res_result jsAuthResult"><span></span></div>
+						</article>
+					</div>
+				</div>
+			</div>
+
+						<div class="menu-item contact bg-02 menu-col-02 jsAsideMenu-05 w540 menuContent-contact closed">
+				<div class="jsMcScrollbar">
+					<div class="spacer">
+						<article>
+							<h2>Contact</h2>
+							<p>My name is Piotr and I'm a travel photographer. Up to date I've visited almost 100 countries. Here I document the travels and showcase my photos from past journeys - every month I publish a new gallery from a different country.</p>						</article>
+
+						<div class="contactInnerWrapper">
+															<div class="contact-mail">
+									<a href="mailto:biuro@crafton.pl">
+										biuro@crafton.pl									</a>
+								</div>
+							
+															<div class="contact-phone">
+									<a href="tel:+48 608 600 544">
+										+48 608 600 544									</a>
+								</div>
+													</div>
+
+						<article>
+															<form data-action="#" action="#" method="post" class="jsContactForm">
+									<input type="hidden" value="gallContactPop" name="res_type" id="res_type">
+									<input type="hidden" value="9" name="res_id" id="res_id">
+									<fieldset>
+										<input type="email" value="" id="res_email" name="res_email" class="form_input required jsContactEmail" required="" placeholder="Enter your email">
+										<textarea id="res_message" name="res_message" required="" placeholder="Message" class="required jsContactMessage"></textarea>
+										<input type="submit" class="jsContactButton" value="Send Message">
+									</fieldset>
+									<div class="param res_result jsContactResult"></div>
+								</form>
+													</article>
+
+						<ul class="contact-list">
+
+
+							<!-- https://www.iconfinder.com/iconsets/neon-line-social-circles -->
+
+							
+						</ul>
+					</div>
+				</div>
+			</div>
+
+						<div class="menu-item bg-02 menu-col-02 jsAsideMenu-06 w540 menuContent-news closed">
+				<div class="jsMcScrollbar">
+					<div class="spacer">
+						<ul class="news-list">
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Zanzibar										<span>01/03/2019</span>
+									</p>
+									Zanzibar is a semi-autonomous archipelago off the coast of Tanzania. Languishing just off mainland Tanzania in the turquoise-blue Indian Ocean, the island of Zanzibar conjures images of perfect, palm-swayed beaches, white sand, billowing s...									<a href="http://worldinmylens.com/page/blog/zanzibar" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Ethiopia										<span>01/02/2019</span>
+									</p>
+									Addis Ababa is definitely number one on my list least liked capitals I&#039;ve visited.  I have to admin that I didn&#039;t expect much from my visit in capital of Ethiopia. It was just 9-hour stop over on my way to Zanzibar. But I was surprised th...									<a href="http://worldinmylens.com/page/blog/ethiopia" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Norway										<span>01/01/2019</span>
+									</p>
+									Last summer I spent almost two weeks in Norway driving around in my camper van. It was an incredible experience also because it was the first holiday with my new born baby. Filip was 2-months old when we flew to Oslo for our adventure. The ...									<a href="http://worldinmylens.com/page/blog/norway" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Uganda										<span>01/12/2018</span>
+									</p>
+									Uganda is a country in East Africa. Famously called the Pearl of Africa by Winston Churchill, it is home to one of the most diverse and concentrated ranges of African fauna including the highly endangered mountain gorilla and the endangere...									<a href="http://worldinmylens.com/page/blog/uganda" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Saudi Arabia										<span>01/11/2018</span>
+									</p>
+									Saudi Arabia is one of the most mysterious countries in the world. I&#039;m fortunate enough to establish the second office of my company (www.crafton.eu) in Riyadh last year. It gives me an amazing opportunity to visit Saudi Arabia regularly an...									<a href="http://worldinmylens.com/page/blog/saudi-arabia" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Lesotho										<span>01/10/2018</span>
+									</p>
+									Lesotho is a country in Southern Africa. Known as the Kingdom in the Sky because of its lofty altitude — it has the highest lowest point of any country in the world (1400m) and is the only country to be entirely above 1000m! Lesotho is to...									<a href="http://worldinmylens.com/page/blog/lesotho" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Swaziland										<span>01/09/2018</span>
+									</p>
+									Swaziland is an absolute monarchy in Southern Africa, landlocked by South Africa in its west and Mozambique in the east.The country is one of the last absolute monarchies in the world and is one of the smallest countries in Africa and has a...									<a href="http://worldinmylens.com/page/blog/swaziland" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Cape Town										<span>01/08/2018</span>
+									</p>
+									Cape Town is the second largest city in South Africa and it’s one of my favourite cities in the world. It is located in the south-west corner of the country near the Cape of Good Hope, and is the most southern city in Africa. It is a ston...									<a href="http://worldinmylens.com/page/blog/cape-town" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Reunion										<span>01/07/2018</span>
+									</p>
+									Réunion is an island and region of France in the Indian Ocean, east of Madagascar and southwest of Mauritius. It had a population of 865,826 and it has the highest GDP per capita in the Indian Ocean. The island has been inhabited since th...									<a href="http://worldinmylens.com/page/blog/reunion" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Seychelles										<span>01/06/2018</span>
+									</p>
+									The Seychelles are a group of 115 islands in the Indian Ocean that lie off the coast of East Africa, northeast of Madagascar. During Christmas last year I visited La Digue, Praslin and Mahé. Mahé is the largest and most populous island...									<a href="http://worldinmylens.com/page/blog/seychelles" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Mauritius 										<span>01/05/2018</span>
+									</p>
+									Mauritius is a small, multi-cultural island in the Indian Ocean, east of Madagascar, NorthEast of Reunion and southeast of the Seychelles. It is a volcanic island of lagoons and palm-fringed beaches with coral reefs surrounding most of the ...									<a href="http://worldinmylens.com/page/blog/mauritius" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Peru										<span>01/04/2018</span>
+									</p>
+									It has been a while since I published gallery from my last trip to Peru. So this month I want to show you new set of pictures from lovely Cusco region. I visited famous Maras salt mines. and then went to Moray, which highlights an admirab...									<a href="http://worldinmylens.com/page/blog/peru-2" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Namibia										<span>01/03/2018</span>
+									</p>
+									Sossusvlei is a common tourist destination in the southern part of the Namib Desert, Namibia. Deserts, though they are very harsh, are a delicate ecosystem with a surprising amount of life living around and underneath the dunes. Keep this ...									<a href="http://worldinmylens.com/page/blog/namibia" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Monaco										<span>01/02/2018</span>
+									</p>
+									The principality of Monaco is a tiny city-state on the Mediterranean Sea and surrounded by France, although the Italian Riviera lies a few kilometres farther east.This is the second smallest independent state in the world (after the Vatican...									<a href="http://worldinmylens.com/page/blog/monaco" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Vatican City										<span>01/01/2018</span>
+									</p>
+									Happy New 2018!!!I&#039;ve just returned from my trip to Africa. The trip was very important for one particular reason: during it I&#039;ve visited my 100th country, which was Swaziland! It took me over 10 years, but I enjoyed the process a lot. I st...									<a href="http://worldinmylens.com/page/blog/vatican" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Patagonia										<span>01/12/2017</span>
+									</p>
+									Chile is one of my favourites country I visited in my life. Mostly because I felt in love with Patagonia.  I visited famous Torres del Paine, which is a national park in the Extreme South region of Patagonian Chile. It is located in the so...									<a href="http://worldinmylens.com/page/blog/patagonia" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Moldova										<span>01/11/2017</span>
+									</p>
+									Moldova, an Eastern European country and former Soviet republic, has varied terrain including forests, rocky hills and vineyards. Capital Chișinău has Soviet-style architecture and the National Museum of History, exhibiting art and ethnog...									<a href="http://worldinmylens.com/page/blog/moldova" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Sarajevo										<span>01/10/2017</span>
+									</p>
+									Bosnia and Herzegovina is a European country located on the Balkan peninsula. It was formerly part of Yugoslavia but gained independence in 1992. It&#039;s probably one of the less tourist popular countries in Europe, but still worth visit. Duri...									<a href="http://worldinmylens.com/page/blog/sarajevo" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Zambia										<span>01/09/2017</span>
+									</p>
+									Lower Zambezi National Park is in southern Zambia, on the Zimbabwean border. In the south, the Zambezi River valley is known for abundant wildlife, including buffalo, fish eagles and herds of elephants. Canoes ply the river, which is home t...									<a href="http://worldinmylens.com/page/blog/zambia" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Botswana										<span>01/08/2017</span>
+									</p>
+									Three months ago I went for the first time in my life on a safari. That was just an incredible experience! I rented a 4x4 car with roof tent and went to explore north of the country. I started the trip in Kasane and followed Chobe river see...									<a href="http://worldinmylens.com/page/blog/botswana" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Istanbul										<span>15/07/2017</span>
+									</p>
+									There are not that many cities in Europe I would like to visit several times in my life. Last month I visited Istanbul for the second time and I really enjoyed it. I have to admit that this is one of my favourite cities in Europe. The city ...									<a href="http://worldinmylens.com/page/blog/istanbul" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Zimbabwe										<span>01/07/2017</span>
+									</p>
+									Two months ago I made my first trip to &#039;the real Africa’. I visited Zambia, Botswana and Zimbabwe. The trip was just incredible and so different from all other journeys I have made in my life. In Zambia and Botswana I went on a safari. Th...									<a href="http://worldinmylens.com/page/blog/zimbabwe" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Guangzhou										<span>15/06/2017</span>
+									</p>
+									I stopped in Guangzhou only for one day on my way back from Vietnam, but I really enjoyed the city.Guangzhou is the third biggest city in China after Beijing and Shanghai with a population of more than 12 million. Founded in 214 BC, the cit...									<a href="http://worldinmylens.com/page/blog/http-worldinmylens-com-gg" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Easter Island										<span>01/06/2017</span>
+									</p>
+									Easter Island is one of the most isolated islands on Earth. Officially a territory of Chile, it lies far off in the Pacific Ocean, roughly halfway to Tahiti. It is most famous for its enigmatic giant stone statues, built centuries ago, whic...									<a href="http://worldinmylens.com/page/blog/easter-island" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Vilnius										<span>15/05/2017</span>
+									</p>
+									Every year I celebrate anniversary of the founding my company in a different European city. In 2015 I visited with my team Lithuania. We spent three days in Vilnius and organised a day trip to Trakai Island Castle. Vilnius is the capital an...									<a href="http://worldinmylens.com/page/blog/vilnius" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Lebanon										<span>01/05/2017</span>
+									</p>
+									Last year I&#039;ve got an opportunity to visit Lebanon for a few days. I was invited to BDL Accelerate Conference to present my new startup - Photler.com. I met many potential users and was able to explain idea of web builder for photographers ...									<a href="http://worldinmylens.com/page/blog/lebanon" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Berlin										<span>15/04/2017</span>
+									</p>
+									I live only two hours by car from Berlin, but to be honest I don&#039;t have many opportunities to visit that city. So last year I decided to spend one summer weekend in Berlin and show this city to my parents. Berlin is the largest city in Ger...									<a href="http://worldinmylens.com/page/blog/berlin" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Kyrgyzstan										<span>01/04/2017</span>
+									</p>
+									Kyrgyzstan is one of less popular tourist popular destination I&#039;ve visited. It is a Central Asian country of incredible natural beauty and proud nomadic traditions. Landlocked and mountainous, it borders Kazakhstan to the north, Uzbekistan ...									<a href="http://worldinmylens.com/page/blog/kyrgyzstan" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Stockholm										<span>15/03/2017</span>
+									</p>
+									Last year I visited Stockholm for the second time. That was a weekend break in July. I&#039;ve got an amazing time walking around the old town, Gamla Stan, which is a saffron-and-spice vision from the storybooks with one of Europe’s most arres...									<a href="http://worldinmylens.com/page/blog/stockholm" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Kazakhstan										<span>01/03/2017</span>
+									</p>
+									Kazakhstan is by far the largest of the Central Asian states of the former Soviet Union. The country is the world&#039;s ninth biggest country by size, and it is more than twice the size of the other Central Asian states combined. Its lack of si...									<a href="http://worldinmylens.com/page/blog/kazakhstan" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Bratislava										<span>15/02/2017</span>
+									</p>
+									Since 2008 I&#039;ve updated my website on the first day of every single month. That’s dozens of galleries! But still I managed to take even more photos. Currently I’ve got 20+ unpublished galleries and many photo trips planned for this year...									<a href="http://worldinmylens.com/page/blog/bratislava" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Samarkand										<span>01/02/2017</span>
+									</p>
+									Last summer I made a trip to Central Asia. There are many beautiful and undiscovered by tourists countries. For me the highlight of the trip was Uzbekistan, where I visited Samarkand, Bukhara and capital - Tashkent.  Samarkand is perhaps th...									<a href="http://worldinmylens.com/page/blog/samarkand" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Minsk										<span>01/01/2017</span>
+									</p>
+									Minsk is the capital and largest city of Belarus, The city was 80% destroyed during World War II and as such was rebuilt in the 1950s to the liking of Stalin. Large, Soviet-bloc style buildings make up a large portion of the city. For this...									<a href="http://worldinmylens.com/page/blog/minsk" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Liechtenstein										<span>01/12/2016</span>
+									</p>
+									Trip to Liechtenstein was just a weekend break with my wife in July this year. On a sunny Saturday morning we flew to Munich, rented a car and in 3 hours started hiking in the Alps. We started with The Princes&#039; Way (&quot;Fürstensteig&quot;), which...									<a href="http://worldinmylens.com/page/blog/liechtenstein" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										New York										<span>01/11/2016</span>
+									</p>
+									I try not to visit the same city and country twice, because there are so many places to see in the world. But for New York I made an exception. Last year I decided to go again. This trip assured me that NYC is still my favourite city in the...									<a href="http://worldinmylens.com/page/blog/new-york" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Canada										<span>01/10/2016</span>
+									</p>
+									I visited Canada on my way to New York earlier this year. I spent one day in Toronto and one day in Niagara Falls.  Toronto is the most populous city in Canada. It is located on the northwestern shore of Lake Ontario. The city is the an...									<a href="http://worldinmylens.com/page/blog/canada" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Isfahan										<span>01/09/2016</span>
+									</p>
+									 Iran is definietly one of the destinations of 2016. Main reason for that is the fact, that since this year tourists can obtain visa on arrival. It makes this amazing country much more accesible. And there is so much to see in Iran! The h...									<a href="http://worldinmylens.com/page/blog/isfahan" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										New South Wales										<span>01/08/2016</span>
+									</p>
+									This month is realy special. After 10 years running my World In My Lens website on an obsolete content management system, I upgraded to the best web builder on the market! Now my website runs on Photler!  I bet that most of you know that...									<a href="http://worldinmylens.com/page/blog/new-south-wales" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Saint Lucia										<span>01/07/2016</span>
+									</p>
+									Saint Lucia is a country island in the Caribbean, off the coast of Central America. Saint Lucia was the last stop during my honeymoon caribbean cruise. I rented a car and drove around for one day visiting all major sights of the island: The...									<a href="http://worldinmylens.com/page/blog/saint-lucia" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Sint Maarten										<span>01/06/2016</span>
+									</p>
+									Sint Maarten, part of the Kingdom of the Netherlands, is a country on the southern part of a Caribbean island shared with Saint Martin, a French overseas collectivity. Natural landscapes span lagoons, beaches and salt pans, while the capita...									<a href="http://worldinmylens.com/page/blog/sint-maarten" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Sydney										<span>01/05/2016</span>
+									</p>
+									Last year I spent Christmas in a complete different way. I flew to Australia, rented a campervan and drove more then 4500 km in two weeks. I have to say that it was an amazing experience. I visited major attractions in Queensland, New South...									<a href="http://worldinmylens.com/page/blog/sydney" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Barbados										<span>01/04/2016</span>
+									</p>
+									Barbados is an island country in the Lesser Antilles. It is 34 kilometres in length and up to 23 km in width, covering an area of only 432 km2.  Barbados has it all: beach resorts from humble to grand, smashing nightlife, a Unesco World Her...									<a href="http://worldinmylens.com/page/blog/barbados" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Oman										<span>01/03/2016</span>
+									</p>
+									Last year I published my first gallery from Oman. This month I want to share with you some photos I took during a day trip to famous Wahiba Sands. Also known as The Sharqiya Sands is a beautiful region of desert in Oman. Wahiba Sands is fam...									<a href="http://worldinmylens.com/page/blog/oman" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Cambodia										<span>01/02/2016</span>
+									</p>
+									Two years ago I visited Cambodia. I have already shared with you a gallery from Siem Reap, but there is one more set of pictures left to be published. Phnom Penh, Cambodia’s busy capital, sits at the junction of the Mekong and Tonlé Sap ...									<a href="http://worldinmylens.com/page/blog/cambodia" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										U.S. Virgin Islands										<span>01/01/2016</span>
+									</p>
+									U.S. Virgin Islands were the last stop on my caribbean cruise. I have to admit that USVI were the biggest surprise of all islands I visited during my trip. The weather was just perfect, sea was hot and refreshing at the same time, vegetatio...									<a href="http://worldinmylens.com/page/blog/u-s-virgin-islands" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Cyprus										<span>01/12/2015</span>
+									</p>
+									Trip to Cyprus earlier this year was quite special. I was invited to Cyprus by my fiancé to celebrate my 30th birthday. We rented a car and spent a few days driving around the island. Cyprus has quite turbulent past. Devastating civil war ...									<a href="http://worldinmylens.com/page/blog/cyprus" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Czech Republic										<span>17/11/2015</span>
+									</p>
+									Usually I update my website on the first day of the month. But this November I&#039;ve got an extra gallery for you from Prague. The reason is: I&#039;ve published my Travel Photography E-book!  Many people ask me what they can do to take better trav...									<a href="http://worldinmylens.com/page/blog/czech-republic" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Puerto Rico										<span>01/11/2015</span>
+									</p>
+									On the 22nd of August this year I was married. The next day after the wedding we left for a special trip. We booked one week Caribbean cruise departing from Puerto Rico. Our honeymoon was really amazing. The trip was different from all othe...									<a href="http://worldinmylens.com/page/blog/puerto-rico" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Myanmar										<span>01/10/2015</span>
+									</p>
+									After visiting most of the parts of Asia I have to admit that Myanmar still remains one of my favourites countries in this part of the world. The reason is that Burma is not visited by hordes of tourists and is not commercialised - especial...									<a href="http://worldinmylens.com/page/blog/myanmar" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Peru										<span>01/09/2015</span>
+									</p>
+									I have to admit visiting Machu Picchu has always been on my top list places I want to visit in my life. And definitely trip to Peru fulfilled my expectations. During my trip I visited Lima, Arequipa, Puno and of course Cusco Region with fam...									<a href="http://worldinmylens.com/page/blog/peru" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Azerbaijan										<span>01/08/2015</span>
+									</p>
+									Azerbaijan is a former Soviet republic on the Caspian Sea between Russia and Iran and is bordered to the west by Georgia and Armenia. Baku is the largest city in the Caucasus and the capital of Azerbaijan.  Surrounded by semidesert on the o...									<a href="http://worldinmylens.com/page/blog/azerbaijan" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Oman										<span>01/07/2015</span>
+									</p>
+									The Sultanate of Oman is located in the Middle East, on the Arabian Peninsula. This country is getting increasingly popular as a tourist destination not without a good reason.  My first stop was Muscat, which is the capital of Oman and the ...									<a href="http://worldinmylens.com/page/blog/oman" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Bangladesh										<span>01/06/2015</span>
+									</p>
+									Bangladesh is definitely not high on everyone&#039;s travel bucket list. But if you are a photographer looking for some incredible photo oportunities, you won&#039;t find any better country in Asia. The truth is that in Bangladesh there are not many ...									<a href="http://worldinmylens.com/page/blog/bangladesh" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Kuwait										<span>01/05/2015</span>
+									</p>
+									Kuwait is not as popular tourist destination in the Persian Gulf as UAE or Qatar, but is definitely worth visit country. The capital, Kuwait City, is a bustling metropolis full of the high-rise buildings and luxury hotels. Yet the country i...									<a href="http://worldinmylens.com/page/blog/kuwait" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Montenegro										<span>01/04/2015</span>
+									</p>
+									Montenegro was the last stop during my trip to Balkans last year. I spent a few days in beach resort - Ulcinj and then headed to the capital city - Podgorica.  Ulcinj is one of the most interesting towns on the eastern coast of the Adriatic...									<a href="http://worldinmylens.com/page/blog/montenegro" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Albania										<span>01/03/2015</span>
+									</p>
+									Albania was the third stop in my trip to Balkans. After I spent some time in big cities like Pristina and Skopje I wanted to enjoy some beach time. I choose Durrës, which is an Albanian Adriatic port city, but it still has some nice beache...									<a href="http://worldinmylens.com/page/blog/albania" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Sri Lanka										<span>01/02/2015</span>
+									</p>
+									Sri Lanka is an island country in the northern Indian Ocean off the coast of South India in South Asia. Its coastline is 1 340 km long. There are many charming places worth visit in this area. Unawatuna is a major tourist attraction in Sri ...									<a href="http://worldinmylens.com/page/blog/sri-lanka" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Pristina										<span>01/01/2015</span>
+									</p>
+									I have to admit that Kosovo is definietly not a tourist destination. Even visitors to Balkan region usually skip Pristina. The reason is that there are basically not much to see, just a handfull intresting buildings like Library of the Univ...									<a href="http://worldinmylens.com/page/blog/pristina" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Lower Saxony										<span>21/12/2014</span>
+									</p>
+									Hello! I just wanted to wish you the best for Christmas this year and happy New 2015! I&#039;ve got an extra gallery for you this month. Last year I took some photos on the Christmas markets in Germany, which I want to share with you now. In the...									<a href="http://worldinmylens.com/page/blog/lower-saxony" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Dublin										<span>01/12/2014</span>
+									</p>
+									Each year I celebrate my my company anniversary with entire team in a differnt european city. Last year we went for the company retreat to Dublin. We had a really great time in Ireland enjoying Guinness in pubs and visiting all major attrac...									<a href="http://worldinmylens.com/page/blog/dublin" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Skopje										<span>01/11/2014</span>
+									</p>
+									Macedonia was the first country I visited in Balkan region this year. Skopje is the capital of the Republic of Macedonia and is the largest and most diverse city in the country. Outside of international business and political circles, Skopj...									<a href="http://worldinmylens.com/page/blog/skopje" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Serbia										<span>01/10/2014</span>
+									</p>
+									During last summer I made a trip to Balkans, which is a region in the southeast of Europe. I visited six countries: Albania, Kosovo, Macedonia, Moldova, Montenegro and finally Serbia. I think Belgrade was undoubtedly the most intresting cap...									<a href="http://worldinmylens.com/page/blog/serbia" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Nepal										<span>01/09/2014</span>
+									</p>
+									Nepal is definietly one of my favourite countries in the world. Not just because wherever you go you can take tons of great photos. In Nepal I love people, nature, culture... The third gallery from Nepal focuses mostly on the nepalese peopl...									<a href="http://worldinmylens.com/page/blog/nepal" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Myanmar										<span>01/08/2014</span>
+									</p>
+									With dense forests, beautiful mountain trails, friendly people, rich cultures, Myanmar – known also as Burma – is certainly an appealing country in Asia.  Myanmar&#039;s the most intersting sight is Bagan where a thousand temples are scatter...									<a href="http://worldinmylens.com/page/blog/myanmar" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Brazil										<span>01/07/2014</span>
+									</p>
+									São Paulo is the largest city in Brazil and the world&#039;s ninth largest city by population.  City is known for its unreliable weather, the size of its helicopter fleet, gastronomy, severe traffic congestion and skyscrapers. Historically attr...									<a href="http://worldinmylens.com/page/blog/brazil" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Cambodia										<span>01/06/2014</span>
+									</p>
+									As with many Asian cities, Phnom Penh has undergone tremendous change in recent years, with new businesses and hotels opening off the back of the tourism boom. However, this development has not come at the expense of the capital’s histori...									<a href="http://worldinmylens.com/page/blog/cambodia" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Argentina										<span>01/05/2014</span>
+									</p>
+									The Iguazú Falls is one of the great natural wonders of the world and the most important tourist attraction in Argentina. There are more than 270 falls in an area where cliffs and islets are scattered in a half moon. The Iguazu Falls stret...									<a href="http://worldinmylens.com/page/blog/argentina" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Sri Lanka										<span>01/04/2014</span>
+									</p>
+									Before I visited Sri Lanka I didn’t expect how diverse and beautiful this country is. Sri Lanka is an island country in the Indian Ocean. This country has a lot to offer: amazing beaches, ancient temples, elephants, mountains and of cours...									<a href="http://worldinmylens.com/page/blog/sri-lanka" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										United Arab Emirates										<span>01/03/2014</span>
+									</p>
+									My first impression about Dubai was that this is extremly nice city to live, but it’s not the easiest place in the world to travel in. Being in Dubai you need to forget about walking. The distances are huge and public transportation is no...									<a href="http://worldinmylens.com/page/blog/united-arab-emirates" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Armenia										<span>01/02/2014</span>
+									</p>
+									Last month I spent a few days in Armenia. I have to admit that January is not the best time of the year to visit the country. It was freezing cold, around minus fifteen degrees. Despite of the cold weather I was able to enjoy the capital of...									<a href="http://worldinmylens.com/page/blog/armenia" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Nepal										<span>01/01/2014</span>
+									</p>
+									It has been a year since my trip to Nepal. I need to say that this small country in Southern Asia is still my favourite country in the world. People are so friendly, towns are so exotic and views are breathtaking. In Nepal there are eight o...									<a href="http://worldinmylens.com/page/blog/nepal" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Iceland										<span>01/12/2013</span>
+									</p>
+									It has been three years since I went to Iceland and spent there alomost half a year. I still love this small country on the edge of Europe and I still have got many photos to share with you. This month I present you new gallery from Akureyr...									<a href="http://worldinmylens.com/page/blog/iceland" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Rio de Janeiro										<span>01/11/2013</span>
+									</p>
+									Rio de Janeiro is the second largest city in Brazil and definietly one of my favorites cities in the world. Rio is famous for its breathtaking landscape, its laidback beach culture and its annual carnival. I went to Rio in August, which is ...									<a href="http://worldinmylens.com/page/blog/rio-de-janeiro" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Vietnam										<span>01/10/2013</span>
+									</p>
+									This year I visited Vietnam for the second time in my life. This is still my favourite country in South East Asia. Ho Chi Minh City  commonly known as Saigon is the largest city in Vietnam. It&#039;s much more developed then Hanoi, but it still ...									<a href="http://worldinmylens.com/page/blog/vietnam" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Cambodia										<span>01/09/2013</span>
+									</p>
+									Siem Reap in Cambodia is the gateway for the Angkor Archaeological Park. The temples of Angkor are one of the most important archaeological sites in Asia. The most famous are the Temple of Angkor Wat and, at Angkor Thom, the Bayon Temple, w...									<a href="http://worldinmylens.com/page/blog/cambodia" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Mallorca, Spain										<span>20/08/2013</span>
+									</p>
+									Mallorca is a spanish island located in the Mediterranean Sea. This largest  island in the Balearic Islands archipelago is one of the most popular summer destinations in Europe. I spent a few days in Mallorca last year. Unlike you might exp...									<a href="http://worldinmylens.com/page/blog/mallorca-spain" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Macau										<span>01/07/2013</span>
+									</p>
+									Macau is a Special Administrative Region of China. This country is one of the world&#039;s smallest and most densely populated spots. The country is best known as Asia&#039;s largest destination for gambling taking in even more revenue than Las Vegas...									<a href="http://worldinmylens.com/page/blog/macau" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Nepal										<span>01/06/2013</span>
+									</p>
+									Nepal is definietly one of the most amazing countries I&#039;ve ever been to. The culture, people, nature - everthing is so fascinating. I spent a few days in capital of the country - Kathmandu, which is largest urban agglomerate of Nepal. I als...									<a href="http://worldinmylens.com/page/blog/nepal" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Qatar										<span>01/05/2013</span>
+									</p>
+									Most of the tourists visit Qatar only for a few hours during their stop-over in Doha. I also spent only 24 hours in Qatar, but I think it&#039;s more then enough. Admittedly there’s little that’s of historical interest, the city is dedicated...									<a href="http://worldinmylens.com/page/blog/qatar" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Georgia										<span>01/04/2013</span>
+									</p>
+									Georgia is not on everyone&#039;s must-see list. But this small country in the Caucasus has it&#039;s charm. At the crossroads of Europe and Asia, Georgia is a combination of uniqueness and diversity. Early this year I spent a few days in Tbilisi. Th...									<a href="http://worldinmylens.com/page/blog/georgia" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Taiwan										<span>01/03/2013</span>
+									</p>
+									Taiwan hasn’t yet made it to the top of everybody’s ‘must visit’ list. This is partially a result of people not quite knowing what Taiwan has to offer. Taiwan is a relatively small island nation located off the coast of southeastern...									<a href="http://worldinmylens.com/page/blog/taiwan" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Hong Kong										<span>01/02/2013</span>
+									</p>
+									Last summer I visted Hong Kong on my way to Taiwan. The city is really worth worth visit. Hong Kong is the former British colonyand it&#039;s major tourism destination in Asia. It is really unique city that has absorbed people and cultural influ...									<a href="http://worldinmylens.com/page/blog/hong-kong" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Iceland										<span>01/01/2013</span>
+									</p>
+									Reykjanes Peninsula is situated at the south-western end of Iceland, near the capital of Reykjavík. This place is famous as a volcano area and it&#039;s great for travel photography. There are numerous hot springs on the peninsula. One of the ...									<a href="http://worldinmylens.com/page/blog/iceland" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Germany										<span>01/12/2012</span>
+									</p>
+									December is month of the Christmas markets in Europe. Germany is definietly the most important country on the Christmas markets map. A visit to a market this time of the year is the best way to get in the festive spirit and find some great ...									<a href="http://worldinmylens.com/page/blog/germany" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Cairo										<span>01/12/2012</span>
+									</p>
+									I haven&#039;t been in many African countries. So last summer I decided to visit this part of the world again. Egypt is definitely must see country in Africa. This is the home of the ancient civilization, country with very rich history and cultu...									<a href="http://worldinmylens.com/page/blog/cairo" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Mexico City										<span>02/10/2012</span>
+									</p>
+									A few months ago I went to Mexico for the second time in my life. Back in 2006 I visited Baja California and this year I wanted to see the capital.  Mexico City is the larges city in North America. Very busy, very vibrant with lots things ...									<a href="http://worldinmylens.com/page/blog/mexico-city" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Iceland										<span>01/09/2012</span>
+									</p>
+									Back in 2010 I spent five months in Iceland. I really enjoyed travel photography in Iceland. I still have got many galleries to share with you from this amazing country. This month I want to publish pictures from the trip to Southeast Icela...									<a href="http://worldinmylens.com/page/blog/iceland" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Cuba										<span>01/08/2012</span>
+									</p>
+									Cuba is quite different from all the countries I&#039;ve visited so far. It&#039;s still communist country, which I think makes it so distinctive. There are many things making Cuba so remarkable: old american cars, colonial architecture, friendly peo...									<a href="http://worldinmylens.com/page/blog/cuba" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										India										<span>01/07/2012</span>
+									</p>
+									India is truly amazing country. It&#039;s quite different from all countries I visited so far. Less developed, noisy, far from european standards in many ways, but at the same time very interesting, colorful with rich culture. I went to India la...									<a href="http://worldinmylens.com/page/blog/india" class="readmore">Read more</a>
+								</li>
+															<li class="news-item">
+									<p class="text theme-textColor-c">
+										Poland										<span>12/06/2012</span>
+									</p>
+									Today finally I&#039;m launching my new website: World In My Lens - Travel Photography by Piotr Kulczycki! It has been almost 4 years since I launched previous version of worldinmylens.com. I have been working on the new version of my travel pho...									<a href="http://worldinmylens.com/page/blog/poland" class="readmore">Read more</a>
+								</li>
+													</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+		<div class="social">
+		<div class="icons">
+			<svg style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+				<defs>
+					<symbol id="iconRSS" viewBox="0 0 32 32">
+						<path d="M5.727 22.533c-2.056 0-3.727 1.677-3.727 3.721 0 2.055 1.671 3.713 3.727 3.713 2.064 0 3.732-1.658 3.732-3.713-0-2.044-1.669-3.721-3.732-3.721zM2.004 11.514v5.366c3.494 0 6.78 1.366 9.255 3.842 2.471 2.47 3.836 5.771 3.836 9.278h5.39c-0-10.194-8.293-18.486-18.481-18.486zM2.011 2v5.369c12.463 0 22.607 10.154 22.607 22.631h5.383c0-15.435-12.558-28-27.989-28z"></path>
+					</symbol>
+				</defs>
+			</svg>
+		</div>
+
+		<div>
+			<li>
+				<a target="_blank" class="iconsvg" type="application/rss+xml" href="http://worldinmylens.com/page/blog/rss">
+					<svg class="iconRSS"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconRSS"></use></svg>
+				</a>
+			</li>
+																						<li>
+							<a target="_blank" href="https://www.facebook.com/worldinmylens">
+								<i class="social-icon icon-facebook"><span>facebook</span></i>
+							</a>
+						</li>
+																				<li>
+							<a target="_blank" href="https://twitter.com/pkulczycki">
+								<i class="social-icon icon-twitter"><span>twitter</span></i>
+							</a>
+						</li>
+																				<li>
+							<a target="_blank" href="https://www.instagram.com/pkulczycki/">
+								<i class="social-icon icon-instagram"><span>instagram</span></i>
+							</a>
+						</li>
+																																																																													</div>
+	</div>
+
+</div>
+
+<script type="text/javascript">
+	document.pageParams.locations = JSON.parse('[{"id":"24978","title":"Paraguay","href":"http:\/\/worldinmylens.com\/paraguay","id_continent":4,"id_country":419,"lat":"-25.2637399000","lng":"-57.5759260000","IsSingleInCountry":true},{"id":"24787","title":"Bahrain","href":"http:\/\/worldinmylens.com\/bahrain","id_continent":2,"id_country":18,"lat":"26.0667000000","lng":"50.5577000000","IsSingleInCountry":true},{"id":"24667","title":"Budapest","href":"http:\/\/worldinmylens.com\/budapeszt","id_continent":1,"id_country":347,"lat":"47.4979120000","lng":"19.0402350000","IsSingleInCountry":true},{"id":"24374","title":"Zanzibar","href":"http:\/\/worldinmylens.com\/zanzibar","id_continent":5,"id_country":466,"lat":"-6.1357295000","lng":"39.3621196000","IsSingleInCountry":true},{"id":"24373","title":"Ethiopia ","href":"http:\/\/worldinmylens.com\/addis-ababa","id_continent":5,"id_country":317,"lat":"8.9806034000","lng":"38.7577605000","IsSingleInCountry":true},{"id":"24006","title":"Norway","href":"http:\/\/worldinmylens.com\/norway","id_continent":1,"id_country":412,"lat":"60.3912628000","lng":"5.3220544000","IsSingleInCountry":true},{"id":"23373","title":"Murchison Falls National Park","href":"http:\/\/worldinmylens.com\/murchison","id_continent":5,"id_country":478,"lat":"2.1457680000","lng":"31.8069054000","IsSingleInCountry":true},{"id":"23375","title":"Masindi District","href":"http:\/\/worldinmylens.com\/masindi","id_continent":5,"id_country":478,"lat":"1.6873134000","lng":"31.7138458000","IsSingleInCountry":true},{"id":"23374","title":"Kampala","href":"http:\/\/worldinmylens.com\/kampala","id_continent":5,"id_country":478,"lat":"0.3475964000","lng":"32.5825197000","IsSingleInCountry":true},{"id":"22842","title":"Saudi Arabia","href":"http:\/\/worldinmylens.com\/saudiarabia","id_continent":2,"id_country":441,"lat":"24.7135517000","lng":"46.6752957000","IsSingleInCountry":true},{"id":"22342","title":"Swaziland","href":"http:\/\/worldinmylens.com\/swaziland","id_continent":5,"id_country":460,"lat":"-26.5225030000","lng":"31.4658660000","IsSingleInCountry":true},{"id":"22335","title":"Lesotho","href":"http:\/\/worldinmylens.com\/lesotho","id_continent":5,"id_country":371,"lat":"-29.6099880000","lng":"28.2336080000","IsSingleInCountry":true},{"id":"22333","title":"South Africa","href":"http:\/\/worldinmylens.com\/south-africa","id_continent":5,"id_country":452,"lat":"-33.9248685000","lng":"18.4240553000","IsSingleInCountry":true},{"id":"22332","title":"Seychelles","href":"http:\/\/worldinmylens.com\/seychelles","id_continent":5,"id_country":444,"lat":"-4.6795740000","lng":"55.4919770000","IsSingleInCountry":true},{"id":"22331","title":"Mauritius","href":"http:\/\/worldinmylens.com\/mauritius","id_continent":5,"id_country":388,"lat":"-20.1608912000","lng":"57.5012222000","IsSingleInCountry":true},{"id":"22334","title":"Lisbon","href":"http:\/\/worldinmylens.com\/portugal","id_continent":1,"id_country":424,"lat":"38.7222524000","lng":"-9.1393366000","IsSingleInCountry":true},{"id":"16933","title":"Sossusvlei","href":"http:\/\/worldinmylens.com\/sossusvlei","id_continent":5,"id_country":400,"lat":"-24.7273906000","lng":"15.3423909000","IsSingleInCountry":true},{"id":"16932","title":"Etosha National Park","href":"http:\/\/worldinmylens.com\/etosha-national-park","id_continent":5,"id_country":400,"lat":"-18.8555909000","lng":"16.3293197000","IsSingleInCountry":true},{"id":"16931","title":"Damaraland","href":"http:\/\/worldinmylens.com\/damaraland","id_continent":5,"id_country":400,"lat":"-20.4877600000","lng":"14.0455800000","IsSingleInCountry":true},{"id":"15145","title":"Brussels","href":"http:\/\/worldinmylens.com\/brussels-2","id_continent":1,"id_country":22,"lat":"50.8503396000","lng":"4.3517103000","IsSingleInCountry":true},{"id":"15144","title":"Ghent","href":"http:\/\/worldinmylens.com\/ghent","id_continent":1,"id_country":22,"lat":"51.0543422000","lng":"3.7174243000","IsSingleInCountry":true},{"id":"15142","title":"Bruges","href":"http:\/\/worldinmylens.com\/bruges","id_continent":1,"id_country":22,"lat":"51.2093480000","lng":"3.2246995000","IsSingleInCountry":true},{"id":"15150","title":"French Riviera","href":"http:\/\/worldinmylens.com\/french-riviera","id_continent":1,"id_country":322,"lat":"43.7101728000","lng":"7.2619532000","IsSingleInCountry":true},{"id":"22341","title":"Reunion","href":"http:\/\/worldinmylens.com\/reunion","id_continent":0,"id_country":0,"lat":"-21.1151410000","lng":"55.5363840000","IsSingleInCountry":false},{"id":"1258","title":"Paris","href":"http:\/\/worldinmylens.com\/paris","id_continent":1,"id_country":322,"lat":"48.8566140000","lng":"2.3522220000","IsSingleInCountry":true},{"id":"15147","title":"Monaco","href":"http:\/\/worldinmylens.com\/monaco","id_continent":1,"id_country":393,"lat":"43.7384176000","lng":"7.4246158000","IsSingleInCountry":true},{"id":"15146","title":"Vatican","href":"http:\/\/worldinmylens.com\/vatican","id_continent":1,"id_country":344,"lat":"41.9029160000","lng":"12.4533890000","IsSingleInCountry":true},{"id":"15149","title":"Rome","href":"http:\/\/worldinmylens.com\/rome","id_continent":1,"id_country":356,"lat":"41.9027835000","lng":"12.4963655000","IsSingleInCountry":true},{"id":"1180","title":"Italian Cities","href":"http:\/\/worldinmylens.com\/florence","id_continent":1,"id_country":356,"lat":"43.7799580000","lng":"11.2425640000","IsSingleInCountry":true},{"id":"14136","title":"Moldova","href":"http:\/\/worldinmylens.com\/moldova","id_continent":1,"id_country":392,"lat":"47.0104529000","lng":"28.8638103000","IsSingleInCountry":true},{"id":"14135","title":"Istanbul","href":"http:\/\/worldinmylens.com\/turkey","id_continent":2,"id_country":474,"lat":"41.0082376000","lng":"28.9783589000","IsSingleInCountry":true},{"id":"14137","title":"Bosnia and Herzegovina","href":"http:\/\/worldinmylens.com\/bosnia-and-herzegovina","id_continent":1,"id_country":29,"lat":"43.8562586000","lng":"18.4130763000","IsSingleInCountry":true},{"id":"13264","title":"Safari in Botswana","href":"http:\/\/worldinmylens.com\/safari","id_continent":5,"id_country":30,"lat":"-18.6666667000","lng":"24.5000000000","IsSingleInCountry":true},{"id":"13265","title":"Kids of Botswana","href":"http:\/\/worldinmylens.com\/kids","id_continent":5,"id_country":30,"lat":"-19.9952622000","lng":"23.4180769000","IsSingleInCountry":true},{"id":"13261","title":"Zimbabwe","href":"http:\/\/worldinmylens.com\/zimbabwe","id_continent":5,"id_country":495,"lat":"-17.9318052000","lng":"25.8255575000","IsSingleInCountry":true},{"id":"13262","title":"Zambia","href":"http:\/\/worldinmylens.com\/zambia","id_continent":5,"id_country":494,"lat":"-15.3122767000","lng":"29.6035495000","IsSingleInCountry":true},{"id":"9336","title":"Atacama","href":"http:\/\/worldinmylens.com\/atacama","id_continent":4,"id_country":45,"lat":"-27.5660558000","lng":"-70.0503140000","IsSingleInCountry":true},{"id":"9333","title":"Patagonia","href":"http:\/\/worldinmylens.com\/patagonia","id_continent":4,"id_country":45,"lat":"-51.7308935000","lng":"-72.4977407000","IsSingleInCountry":true},{"id":"9331","title":"Easter Island","href":"http:\/\/worldinmylens.com\/easter-island","id_continent":4,"id_country":45,"lat":"-27.1129900000","lng":"-109.3495806000","IsSingleInCountry":true},{"id":"9330","title":"Santiago","href":"http:\/\/worldinmylens.com\/santiago","id_continent":4,"id_country":45,"lat":"-33.4378305000","lng":"-70.6504492000","IsSingleInCountry":true},{"id":"9341","title":"Bratislava","href":"http:\/\/worldinmylens.com\/bratislava-2","id_continent":1,"id_country":448,"lat":"48.1485965000","lng":"17.1077477000","IsSingleInCountry":true},{"id":"9337","title":"Lebanon","href":"http:\/\/worldinmylens.com\/lebanon","id_continent":2,"id_country":370,"lat":"33.8937913000","lng":"35.5017767000","IsSingleInCountry":true},{"id":"5886","title":"Tashkent","href":"http:\/\/worldinmylens.com\/tashkent","id_continent":2,"id_country":485,"lat":"41.2994958000","lng":"69.2400734000","IsSingleInCountry":true},{"id":"5885","title":"Samarkand","href":"http:\/\/worldinmylens.com\/samarkand","id_continent":2,"id_country":485,"lat":"39.6270120000","lng":"66.9749731000","IsSingleInCountry":true},{"id":"5884","title":"Bukhara","href":"http:\/\/worldinmylens.com\/bukhara","id_continent":2,"id_country":485,"lat":"39.7680827000","lng":"64.4555769000","IsSingleInCountry":true},{"id":"5888","title":"Kyrgyzstan","href":"http:\/\/worldinmylens.com\/kyrgyzstan","id_continent":2,"id_country":367,"lat":"42.8746212000","lng":"74.5697617000","IsSingleInCountry":true},{"id":"5887","title":"Kazakhstan","href":"http:\/\/worldinmylens.com\/kazakhstan","id_continent":2,"id_country":361,"lat":"48.0195730000","lng":"66.9236840000","IsSingleInCountry":true},{"id":"4336","title":"Liechtenstein","href":"http:\/\/worldinmylens.com\/liechtenstein","id_continent":1,"id_country":374,"lat":"47.1660000000","lng":"9.5553730000","IsSingleInCountry":true},{"id":"4335","title":"Stockholm","href":"http:\/\/worldinmylens.com\/stockholm-2","id_continent":1,"id_country":461,"lat":"59.3293235000","lng":"18.0685808000","IsSingleInCountry":true},{"id":"4337","title":"Berlin","href":"http:\/\/worldinmylens.com\/berlin-2","id_continent":1,"id_country":329,"lat":"52.5200066000","lng":"13.4049540000","IsSingleInCountry":true},{"id":"9449","title":"Wolfenb\u00fcttel","href":"http:\/\/worldinmylens.com\/wolfenbuttel","id_continent":1,"id_country":329,"lat":"52.1640413000","lng":"10.5408484000","IsSingleInCountry":true},{"id":"1235","title":"Saxony","href":"http:\/\/worldinmylens.com\/saxony","id_continent":1,"id_country":329,"lat":"51.0504088000","lng":"13.7372621000","IsSingleInCountry":true},{"id":"1236","title":"Lower Saxony","href":"http:\/\/worldinmylens.com\/lower-saxony","id_continent":1,"id_country":329,"lat":"52.3796660000","lng":"9.7614720000","IsSingleInCountry":true},{"id":"1237","title":"Wolfsburg","href":"http:\/\/worldinmylens.com\/wolfsburg","id_continent":1,"id_country":329,"lat":"52.4226503000","lng":"10.7865461000","IsSingleInCountry":true},{"id":"4339","title":"New York","href":"http:\/\/worldinmylens.com\/new-york","id_continent":3,"id_country":482,"lat":"40.7127837000","lng":"-74.0059413000","IsSingleInCountry":true},{"id":"4338","title":"Canada","href":"http:\/\/worldinmylens.com\/canada","id_continent":3,"id_country":40,"lat":"43.6532260000","lng":"-79.3831843000","IsSingleInCountry":true},{"id":"4341","title":"Isfahan","href":"http:\/\/worldinmylens.com\/isfahan","id_continent":2,"id_country":351,"lat":"32.6546275000","lng":"51.6679826000","IsSingleInCountry":true},{"id":"4343","title":"Teheran, Abyaneh &amp; Kashan","href":"http:\/\/worldinmylens.com\/teheran-abyaneh-amp-kashan","id_continent":2,"id_country":351,"lat":"35.6891975000","lng":"51.3889736000","IsSingleInCountry":true},{"id":"4342","title":"Yazd","href":"http:\/\/worldinmylens.com\/yazd","id_continent":2,"id_country":351,"lat":"31.8974232000","lng":"54.3568562000","IsSingleInCountry":true},{"id":"1323","title":"Minsk","href":"http:\/\/worldinmylens.com\/minsk-ujwtq","id_continent":1,"id_country":21,"lat":"53.9045398000","lng":"27.5615244000","IsSingleInCountry":true},{"id":"1325","title":"Queensland","href":"http:\/\/worldinmylens.com\/queensland","id_continent":6,"id_country":14,"lat":"-20.9175738000","lng":"142.7027956000","IsSingleInCountry":true},{"id":"1326","title":"Victoria","href":"http:\/\/worldinmylens.com\/victoria","id_continent":6,"id_country":14,"lat":"-37.4713077000","lng":"144.7851531000","IsSingleInCountry":true},{"id":"1327","title":"New South Wales","href":"http:\/\/worldinmylens.com\/new-south-wales","id_continent":6,"id_country":14,"lat":"-31.2532183000","lng":"146.9210990000","IsSingleInCountry":true},{"id":"1328","title":"Sydney","href":"http:\/\/worldinmylens.com\/sydney","id_continent":6,"id_country":14,"lat":"-35.2820000000","lng":"149.1286840000","IsSingleInCountry":true},{"id":"1213","title":"Lithuania","href":"http:\/\/worldinmylens.com\/lithuania","id_continent":1,"id_country":375,"lat":"54.6871555000","lng":"25.2796514000","IsSingleInCountry":true},{"id":"1320","title":"U.S. Virgin Islands","href":"http:\/\/worldinmylens.com\/us-virgin-islands","id_continent":3,"id_country":490,"lat":"18.3443970000","lng":"-65.0199920000","IsSingleInCountry":true},{"id":"1322","title":"Sint Maarten","href":"http:\/\/worldinmylens.com\/sint-maarten-zr5eg","id_continent":3,"id_country":447,"lat":"18.0347270000","lng":"-63.0681120000","IsSingleInCountry":true},{"id":"1319","title":"Puerto Rico","href":"http:\/\/worldinmylens.com\/puerto-rico","id_continent":3,"id_country":425,"lat":"18.1979060000","lng":"-66.9131300000","IsSingleInCountry":true},{"id":"1321","title":"Saint Lucia","href":"http:\/\/worldinmylens.com\/saint-lucia-pu0lk","id_continent":3,"id_country":434,"lat":"13.9094440000","lng":"-60.9788930000","IsSingleInCountry":true},{"id":"1318","title":"Barbados","href":"http:\/\/worldinmylens.com\/barbados","id_continent":3,"id_country":20,"lat":"13.0989380000","lng":"-59.6133520000","IsSingleInCountry":true},{"id":"1315","title":"Cusco Region","href":"http:\/\/worldinmylens.com\/cusco-region","id_continent":4,"id_country":420,"lat":"-13.5319500000","lng":"-71.9674626000","IsSingleInCountry":true},{"id":"1316","title":"Machu Picchu","href":"http:\/\/worldinmylens.com\/machu-picchu","id_continent":4,"id_country":420,"lat":"-13.1631410000","lng":"-72.5449630000","IsSingleInCountry":true},{"id":"1317","title":"Lima, Arequipa, Puno","href":"http:\/\/worldinmylens.com\/lima-arequipa-puno","id_continent":4,"id_country":420,"lat":"-12.0463740000","lng":"-77.0427934000","IsSingleInCountry":true},{"id":"1310","title":"Cyprus","href":"http:\/\/worldinmylens.com\/cyprus","id_continent":1,"id_country":305,"lat":"35.0847550000","lng":"33.0722160000","IsSingleInCountry":true},{"id":"1307","title":"Muscat","href":"http:\/\/worldinmylens.com\/muscat","id_continent":2,"id_country":413,"lat":"23.5833450000","lng":"58.4236660000","IsSingleInCountry":true},{"id":"1308","title":"Wahiba Sands","href":"http:\/\/worldinmylens.com\/wahiba-sands","id_continent":2,"id_country":413,"lat":"21.4938500000","lng":"58.2891770000","IsSingleInCountry":true},{"id":"1309","title":"Baku","href":"http:\/\/worldinmylens.com\/baku","id_continent":2,"id_country":16,"lat":"40.3953010000","lng":"49.8549600000","IsSingleInCountry":true},{"id":"1305","title":"Kuwait","href":"http:\/\/worldinmylens.com\/kuwait","id_continent":2,"id_country":366,"lat":"29.3760650000","lng":"47.9818850000","IsSingleInCountry":true},{"id":"1312","title":"Dhaka","href":"http:\/\/worldinmylens.com\/dhaka","id_continent":2,"id_country":19,"lat":"23.7806370000","lng":"90.4193260000","IsSingleInCountry":true},{"id":"1313","title":"Sylhet Division","href":"http:\/\/worldinmylens.com\/sylhet-division","id_continent":2,"id_country":19,"lat":"24.7049811000","lng":"91.6760691000","IsSingleInCountry":true},{"id":"1255","title":"Czech Republic","href":"http:\/\/worldinmylens.com\/czech-republic-2","id_continent":1,"id_country":306,"lat":"50.0755381000","lng":"14.4378005000","IsSingleInCountry":true},{"id":"1300","title":"Belgrade","href":"http:\/\/worldinmylens.com\/belgrade-ekyjq","id_continent":1,"id_country":443,"lat":"44.7623366748","lng":"20.4462432861","IsSingleInCountry":true},{"id":"1301","title":"Montenegro","href":"http:\/\/worldinmylens.com\/montenegro-3pzly","id_continent":1,"id_country":395,"lat":"42.7044220000","lng":"19.2558790000","IsSingleInCountry":true},{"id":"1302","title":"Skopje","href":"http:\/\/worldinmylens.com\/skopje","id_continent":1,"id_country":378,"lat":"42.0038120000","lng":"21.4522460000","IsSingleInCountry":true},{"id":"1303","title":"Albania","href":"http:\/\/worldinmylens.com\/albania-hfa6i","id_continent":1,"id_country":3,"lat":"41.3260000000","lng":"19.8160000000","IsSingleInCountry":true},{"id":"1304","title":"Pristina","href":"http:\/\/worldinmylens.com\/pristina-gd1hs","id_continent":1,"id_country":552,"lat":"42.5578052000","lng":"19.7809767000","IsSingleInCountry":true},{"id":"1296","title":"Yangon","href":"http:\/\/worldinmylens.com\/yangon","id_continent":2,"id_country":399,"lat":"16.9038210000","lng":"96.1695100000","IsSingleInCountry":true},{"id":"1297","title":"Inle Lake","href":"http:\/\/worldinmylens.com\/inle-lake-ngz01","id_continent":2,"id_country":399,"lat":"20.5326850000","lng":"96.9061090000","IsSingleInCountry":true},{"id":"1298","title":"Mandalay","href":"http:\/\/worldinmylens.com\/mandalay","id_continent":2,"id_country":399,"lat":"21.9403600000","lng":"96.0758240000","IsSingleInCountry":true},{"id":"1299","title":"Bagan","href":"http:\/\/worldinmylens.com\/bagan","id_continent":2,"id_country":399,"lat":"21.1722070000","lng":"94.8588650000","IsSingleInCountry":true},{"id":"1284","title":"Argentina","href":"http:\/\/worldinmylens.com\/argentina-9jkso","id_continent":4,"id_country":11,"lat":"-25.6952590000","lng":"-54.4366660000","IsSingleInCountry":true},{"id":"1288","title":"Armenia","href":"http:\/\/worldinmylens.com\/armenia-bw0ep","id_continent":1,"id_country":12,"lat":"40.1668550000","lng":"44.5147710000","IsSingleInCountry":true},{"id":"1293","title":"Dubai","href":"http:\/\/worldinmylens.com\/dubai-r6bvm","id_continent":2,"id_country":480,"lat":"24.4666670000","lng":"54.3666670000","IsSingleInCountry":true},{"id":"1294","title":"Abu Dhabi","href":"http:\/\/worldinmylens.com\/abu-dhabi","id_continent":2,"id_country":480,"lat":"24.2991738000","lng":"54.6972774000","IsSingleInCountry":true},{"id":"1290","title":"Central Province","href":"http:\/\/worldinmylens.com\/central-province-oc69t","id_continent":2,"id_country":456,"lat":"7.3738360000","lng":"80.7249870000","IsSingleInCountry":true},{"id":"1291","title":"West Coast","href":"http:\/\/worldinmylens.com\/west-coast-qnw2j","id_continent":2,"id_country":456,"lat":"6.9669670000","lng":"79.7312680000","IsSingleInCountry":true},{"id":"1265","title":"Dublin","href":"http:\/\/worldinmylens.com\/dublin-f3qrb","id_continent":1,"id_country":353,"lat":"53.3441040000","lng":"-6.2674940000","IsSingleInCountry":true},{"id":"1286","title":"Rio de Janeiro","href":"http:\/\/worldinmylens.com\/rio-de-janeiro-fmtsj","id_continent":4,"id_country":32,"lat":"-22.9156910000","lng":"-43.4497030000","IsSingleInCountry":true},{"id":"1287","title":"Sao Paulo","href":"http:\/\/worldinmylens.com\/sao-paulo-6o4on","id_continent":4,"id_country":32,"lat":"-23.6824120000","lng":"-46.5952990000","IsSingleInCountry":true},{"id":"1282","title":"Phnom Penh","href":"http:\/\/worldinmylens.com\/phnom-penh-je0eb","id_continent":2,"id_country":38,"lat":"11.5793640000","lng":"104.8787380000","IsSingleInCountry":true},{"id":"1272","title":"Macau","href":"http:\/\/worldinmylens.com\/macau-kv6qg","id_continent":2,"id_country":377,"lat":"22.1667000000","lng":"113.5500000000","IsSingleInCountry":true},{"id":"1283","title":"Siem Reap","href":"http:\/\/worldinmylens.com\/siem-reap","id_continent":2,"id_country":38,"lat":"13.3686130000","lng":"103.8492110000","IsSingleInCountry":true},{"id":"1276","title":"Georgia","href":"http:\/\/worldinmylens.com\/georgia-k7d39","id_continent":1,"id_country":328,"lat":"41.7099810000","lng":"44.7929980000","IsSingleInCountry":true},{"id":"1275","title":"Qatar","href":"http:\/\/worldinmylens.com\/qatar-o7bf5","id_continent":2,"id_country":426,"lat":"25.2802820000","lng":"51.5224760000","IsSingleInCountry":true},{"id":"1280","title":"Pokhara","href":"http:\/\/worldinmylens.com\/pokhara-ho3wl","id_continent":2,"id_country":402,"lat":"28.2152780000","lng":"83.9842450000","IsSingleInCountry":true},{"id":"1278","title":"Kathmandu","href":"http:\/\/worldinmylens.com\/kathmandu-iqppd","id_continent":2,"id_country":402,"lat":"27.7089600000","lng":"85.3261330000","IsSingleInCountry":true},{"id":"1279","title":"Bhaktapur","href":"http:\/\/worldinmylens.com\/bhaktapur-lijyw","id_continent":2,"id_country":402,"lat":"27.6776960000","lng":"85.4241170000","IsSingleInCountry":true},{"id":"1273","title":"Hong Kong","href":"http:\/\/worldinmylens.com\/hong-kong-6sfss","id_continent":2,"id_country":346,"lat":"22.3000000000","lng":"114.1667000000","IsSingleInCountry":true},{"id":"1274","title":"Taiwan","href":"http:\/\/worldinmylens.com\/taiwan-nw1ru","id_continent":2,"id_country":464,"lat":"25.0333000000","lng":"121.5333000000","IsSingleInCountry":true},{"id":"1271","title":"Cairo","href":"http:\/\/worldinmylens.com\/cairo-nfoks","id_continent":5,"id_country":312,"lat":"30.0444200000","lng":"31.2357120000","IsSingleInCountry":true},{"id":"1172","title":"Cuba","href":"http:\/\/worldinmylens.com\/cuba","id_continent":3,"id_country":303,"lat":"23.1168000000","lng":"-82.3885570000","IsSingleInCountry":true},{"id":"1174","title":"Mexico City","href":"http:\/\/worldinmylens.com\/mexico-city","id_continent":3,"id_country":390,"lat":"19.4326080000","lng":"-99.1332080000","IsSingleInCountry":true},{"id":"1225","title":"Mallorca","href":"http:\/\/worldinmylens.com\/mallorca-baytx","id_continent":1,"id_country":455,"lat":"39.6134980000","lng":"2.9116520000","IsSingleInCountry":true},{"id":"1221","title":"Spain","href":"http:\/\/worldinmylens.com\/spain-irze0","id_continent":1,"id_country":455,"lat":"40.4378270000","lng":"-3.6795370000","IsSingleInCountry":true},{"id":"1171","title":"India","href":"http:\/\/worldinmylens.com\/india-exzy0","id_continent":2,"id_country":349,"lat":"28.6353080000","lng":"77.2249600000","IsSingleInCountry":true},{"id":"1176","title":"New Zealand","href":"http:\/\/worldinmylens.com\/new-zealand","id_continent":6,"id_country":405,"lat":"-41.2864600000","lng":"174.7762360000","IsSingleInCountry":true},{"id":"1184","title":"Jordan","href":"http:\/\/worldinmylens.com\/jordan","id_continent":2,"id_country":360,"lat":"31.9565780000","lng":"35.9456950000","IsSingleInCountry":true},{"id":"1185","title":"Israel","href":"http:\/\/worldinmylens.com\/israel","id_continent":2,"id_country":355,"lat":"31.7683180000","lng":"35.2137110000","IsSingleInCountry":true},{"id":"25079","title":"Lviv","href":"http:\/\/worldinmylens.com\/lviv-2","id_continent":1,"id_country":479,"lat":"49.8396830000","lng":"24.0297170000","IsSingleInCountry":true},{"id":"1168","title":"Chernobyl","href":"http:\/\/worldinmylens.com\/chernobyl","id_continent":1,"id_country":479,"lat":"50.4501000000","lng":"30.5234000000","IsSingleInCountry":true},{"id":"1170","title":"Kiev","href":"http:\/\/worldinmylens.com\/kiev","id_continent":1,"id_country":479,"lat":"50.4020360000","lng":"30.5326910000","IsSingleInCountry":true},{"id":"1197","title":"Bali","href":"http:\/\/worldinmylens.com\/bali","id_continent":2,"id_country":350,"lat":"-8.4554720000","lng":"115.0715770000","IsSingleInCountry":true},{"id":"1198","title":"Singapore","href":"http:\/\/worldinmylens.com\/singapore","id_continent":2,"id_country":446,"lat":"1.2894370000","lng":"103.8499800000","IsSingleInCountry":true},{"id":"1202","title":"Ho Chi Minh","href":"http:\/\/worldinmylens.com\/ho-chi-minh-6ixvo","id_continent":2,"id_country":488,"lat":"10.7684510000","lng":"106.6943630000","IsSingleInCountry":true},{"id":"1200","title":"Hanoi","href":"http:\/\/worldinmylens.com\/hanoi","id_continent":2,"id_country":488,"lat":"21.0226970000","lng":"105.8369640000","IsSingleInCountry":true},{"id":"1201","title":"Ha Long Bay","href":"http:\/\/worldinmylens.com\/ha-long-bay","id_continent":2,"id_country":488,"lat":"20.8399800000","lng":"107.1486280000","IsSingleInCountry":true},{"id":"1204","title":"Bangkok","href":"http:\/\/worldinmylens.com\/bangkok","id_continent":2,"id_country":467,"lat":"13.7246010000","lng":"100.6331110000","IsSingleInCountry":true},{"id":"1205","title":"Damnoen Saduak","href":"http:\/\/worldinmylens.com\/damnoen-saduak","id_continent":2,"id_country":467,"lat":"13.5626000000","lng":"99.9629000000","IsSingleInCountry":true},{"id":"1195","title":"Kuala Lumpur","href":"http:\/\/worldinmylens.com\/kuala-lumpur","id_continent":2,"id_country":381,"lat":"3.1390030000","lng":"101.6868560000","IsSingleInCountry":true},{"id":"1196","title":"Malacca","href":"http:\/\/worldinmylens.com\/malacca","id_continent":2,"id_country":381,"lat":"2.2733340000","lng":"102.2819350000","IsSingleInCountry":true},{"id":"1206","title":"Luxembourg","href":"http:\/\/worldinmylens.com\/luxembourg","id_continent":1,"id_country":376,"lat":"49.6116210000","lng":"6.1319350000","IsSingleInCountry":true},{"id":"1207","title":"Malta","href":"http:\/\/worldinmylens.com\/malta","id_continent":1,"id_country":384,"lat":"35.8977900000","lng":"14.5141060000","IsSingleInCountry":true},{"id":"1208","title":"Switzerland","href":"http:\/\/worldinmylens.com\/switzerland","id_continent":1,"id_country":462,"lat":"46.9479220000","lng":"7.4446090000","IsSingleInCountry":true},{"id":"1262","title":"Amsterdam","href":"http:\/\/worldinmylens.com\/amsterdam","id_continent":1,"id_country":403,"lat":"52.3702160000","lng":"4.8951680000","IsSingleInCountry":true},{"id":"1209","title":"Greenland","href":"http:\/\/worldinmylens.com\/greenland","id_continent":1,"id_country":333,"lat":"65.5633060000","lng":"-37.1860190000","IsSingleInCountry":true},{"id":"1157","title":"Akureyri","href":"http:\/\/worldinmylens.com\/akureyri-nakwf","id_continent":1,"id_country":348,"lat":"65.6867220000","lng":"-18.1412500000","IsSingleInCountry":true},{"id":"1158","title":"Reykjanes Peninsula","href":"http:\/\/worldinmylens.com\/reykjanes-peninsula-ts5e0","id_continent":1,"id_country":348,"lat":"63.8086040000","lng":"-22.6944440000","IsSingleInCountry":true},{"id":"1159","title":"Landmannalaugar","href":"http:\/\/worldinmylens.com\/landmannalaugar","id_continent":1,"id_country":348,"lat":"63.9877440000","lng":"-19.0766640000","IsSingleInCountry":true},{"id":"1160","title":"Golden Circle","href":"http:\/\/worldinmylens.com\/golden-circle","id_continent":1,"id_country":348,"lat":"64.1382780000","lng":"-20.4603790000","IsSingleInCountry":true},{"id":"1161","title":"Westfjords","href":"http:\/\/worldinmylens.com\/westfjords","id_continent":1,"id_country":348,"lat":"65.7164460000","lng":"-22.7605950000","IsSingleInCountry":true},{"id":"1162","title":"Southeast Iceland","href":"http:\/\/worldinmylens.com\/southeast-iceland","id_continent":1,"id_country":348,"lat":"64.0735070000","lng":"-16.4503690000","IsSingleInCountry":true},{"id":"1163","title":"Volcano","href":"http:\/\/worldinmylens.com\/volcano","id_continent":1,"id_country":348,"lat":"63.9567800000","lng":"-18.8371490000","IsSingleInCountry":true},{"id":"1164","title":"Iceland from the air","href":"http:\/\/worldinmylens.com\/iceland-from-the-air","id_continent":1,"id_country":348,"lat":"64.1296809000","lng":"-21.9366029000","IsSingleInCountry":true},{"id":"1165","title":"Westman Islands","href":"http:\/\/worldinmylens.com\/westman-islands","id_continent":1,"id_country":348,"lat":"63.4376790000","lng":"-20.2673210000","IsSingleInCountry":true},{"id":"1166","title":"Reykjavik","href":"http:\/\/worldinmylens.com\/reykjavik","id_continent":1,"id_country":348,"lat":"64.1324420000","lng":"-21.8569030000","IsSingleInCountry":true},{"id":"1190","title":"Xian","href":"http:\/\/worldinmylens.com\/xian","id_continent":2,"id_country":46,"lat":"34.2593800000","lng":"108.9672090000","IsSingleInCountry":true},{"id":"1191","title":"Shanghai","href":"http:\/\/worldinmylens.com\/shanghai","id_continent":2,"id_country":46,"lat":"31.2243490000","lng":"121.4767530000","IsSingleInCountry":true},{"id":"1192","title":"Beijing","href":"http:\/\/worldinmylens.com\/beijing","id_continent":2,"id_country":46,"lat":"39.9388840000","lng":"116.3974590000","IsSingleInCountry":true},{"id":"1193","title":"Guangzhou","href":"http:\/\/worldinmylens.com\/guangzhou","id_continent":2,"id_country":46,"lat":"23.1291100000","lng":"113.2643850000","IsSingleInCountry":true},{"id":"1210","title":"Helsinki","href":"http:\/\/worldinmylens.com\/helsinki","id_continent":1,"id_country":321,"lat":"60.1665860000","lng":"24.9435550000","IsSingleInCountry":true},{"id":"1187","title":"St. Petersburg","href":"http:\/\/worldinmylens.com\/st-petersburg","id_continent":1,"id_country":429,"lat":"59.9174460000","lng":"30.3250580000","IsSingleInCountry":true},{"id":"1188","title":"Moscow","href":"http:\/\/worldinmylens.com\/moscow","id_continent":1,"id_country":429,"lat":"55.7558260000","lng":"37.6173000000","IsSingleInCountry":true},{"id":"1214","title":"Riga","href":"http:\/\/worldinmylens.com\/riga","id_continent":1,"id_country":369,"lat":"56.9462030000","lng":"24.1042870000","IsSingleInCountry":true},{"id":"1215","title":"Tallinn","href":"http:\/\/worldinmylens.com\/tallinn","id_continent":1,"id_country":316,"lat":"59.4426900000","lng":"24.7531970000","IsSingleInCountry":true},{"id":"1153","title":"Bornholm","href":"http:\/\/worldinmylens.com\/bornholm","id_continent":1,"id_country":307,"lat":"55.1432150000","lng":"14.9190420000","IsSingleInCountry":true},{"id":"1154","title":"Copenhagen","href":"http:\/\/worldinmylens.com\/copenhagen-ylv9r","id_continent":1,"id_country":307,"lat":"55.6712670000","lng":"12.5608390000","IsSingleInCountry":true},{"id":"1217","title":"Bucharest","href":"http:\/\/worldinmylens.com\/bucharest","id_continent":1,"id_country":428,"lat":"44.4377110000","lng":"26.0973670000","IsSingleInCountry":true},{"id":"1218","title":"Sofia","href":"http:\/\/worldinmylens.com\/sofia","id_continent":1,"id_country":35,"lat":"42.6964920000","lng":"23.3260110000","IsSingleInCountry":true},{"id":"1242","title":"Ljubljana","href":"http:\/\/worldinmylens.com\/ljubljana","id_continent":1,"id_country":449,"lat":"46.0514260000","lng":"14.5059660000","IsSingleInCountry":true},{"id":"1241","title":"Zagreb","href":"http:\/\/worldinmylens.com\/zagreb","id_continent":1,"id_country":302,"lat":"45.8149120000","lng":"15.9785150000","IsSingleInCountry":true},{"id":"1239","title":"Vienna","href":"http:\/\/worldinmylens.com\/vienna","id_continent":1,"id_country":15,"lat":"48.2081740000","lng":"16.3738190000","IsSingleInCountry":true},{"id":"1149","title":"Poland","href":"http:\/\/worldinmylens.com\/polish-cities-bmdbc","id_continent":1,"id_country":423,"lat":"52.2393593799","lng":"21.0160458828","IsSingleInCountry":true},{"id":"24985","title":"London","href":"http:\/\/worldinmylens.com\/london","id_continent":1,"id_country":481,"lat":"51.5073509000","lng":"-0.1277583000","IsSingleInCountry":true},{"id":"1250","title":"Edinburgh","href":"http:\/\/worldinmylens.com\/edinburgh","id_continent":1,"id_country":481,"lat":"55.9532520000","lng":"-3.1882670000","IsSingleInCountry":true},{"id":"1251","title":"Cambridge","href":"http:\/\/worldinmylens.com\/cambridge","id_continent":1,"id_country":481,"lat":"52.2053370000","lng":"0.1218170000","IsSingleInCountry":true},{"id":"1246","title":"Great Britain","href":"http:\/\/worldinmylens.com\/great-britain","id_continent":1,"id_country":481,"lat":"53.8260000000","lng":"-2.4220000000","IsSingleInCountry":true},{"id":"1252","title":"Tunisia","href":"http:\/\/worldinmylens.com\/tunisia","id_continent":5,"id_country":473,"lat":"36.8188100000","lng":"10.1659600000","IsSingleInCountry":true},{"id":"1257","title":"Athens","href":"http:\/\/worldinmylens.com\/athens","id_continent":1,"id_country":332,"lat":"37.9753360000","lng":"23.7361500000","IsSingleInCountry":true},{"id":"1261","title":"Morocco","href":"http:\/\/worldinmylens.com\/morocco","id_continent":5,"id_country":397,"lat":"34.0150490000","lng":"-6.8327200000","IsSingleInCountry":true}]');
+	var stickyBannerShow = 1</script>
+
+
+
+
+
+
+
+
+
+
+<div class="stickyBanner jsStickyBanner">
+	<a href="#" class="close jsStickyBannerClose"></a>
+	<a href="http://photler.com" class="banner" target="newWindow"><img src="http://photler.com/web/portfolio/theme1/img/btn_wiml_1_0.png" alt="Enjoy browsing my site? Check out Photler - the best website builder for photographers."></a>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				<section class="news-slider-pusher">
+			<img src="http://photler.com/web/portfolio/theme1/img/_SliderPusher.png" class="ResponsivePusher" alt="" />
+		</section>
+		<section class="page-slider page-ScreenSize news-slider jsSliderNews-NewsContener jsUserPanelHelp" data-manage="slideManage,slideAdd">
+			<a class="prev icon-ico-NavArrowLeft jsSliderNews-PrevAnchor"></a>
+			<a class="next icon-ico-NavArrowRight jsSliderNews-NextAnchor"></a>
+
+			<div class="news-slider-overlay jsSliderNews-OverlayContener">
+				<img src="http://photler.com/web/portfolio/theme1/img/_SliderPusher.png" class="ResponsivePusher" alt="" />
+														<article class="page-slider-item _ItemPos-0  jsSliderNews-EntryContener">
+						<img src="http://photler.com/web/portfolio/theme1/img/blank.gif" data-image="http://photler.com/web/uploads/14/duze-zdjecia-wiml-dfc3f.jpg" alt="Asunción" class="fadeIn" />
+
+						<div class="intro IsHidden jsSliderNews-IntroContener">
+							<header class="jsSliderNews-IntroContener-Text">
+								<h2>Paraguay</h2>
+								<h1>Asunción</h1>
+							</header>
+
+															<a href="http://worldinmylens.com/paraguay" title="Asunción" class="_WhiteBorderBox bt-slide-anim">
+									See gallery								</a>
+													</div>
+					</article>
+														<article class="page-slider-item _ItemPos-0  jsSliderNews-EntryContener">
+						<img src="http://photler.com/web/portfolio/theme1/img/blank.gif" data-image="http://photler.com/web/uploads/ac/duze-zdjecia-wiml-428de.jpg" alt="Manama" class="fadeIn" />
+
+						<div class="intro IsHidden jsSliderNews-IntroContener">
+							<header class="jsSliderNews-IntroContener-Text">
+								<h2>Bahrain</h2>
+								<h1>Manama</h1>
+							</header>
+
+															<a href="http://worldinmylens.com/bahrain" title="Manama" class="_WhiteBorderBox bt-slide-anim">
+									See gallery								</a>
+													</div>
+					</article>
+														<article class="page-slider-item _ItemPos-0  jsSliderNews-EntryContener">
+						<img src="http://photler.com/web/portfolio/theme1/img/blank.gif" data-image="http://photler.com/web/uploads/6e/duze-zdjecia-wiml-ad49c.jpg" alt="Zanzibar" class="fadeIn" />
+
+						<div class="intro IsHidden jsSliderNews-IntroContener">
+							<header class="jsSliderNews-IntroContener-Text">
+								<h2>Tanzania</h2>
+								<h1>Zanzibar</h1>
+							</header>
+
+															<a href="http://worldinmylens.com/zanzibar" title="Zanzibar" class="_WhiteBorderBox bt-slide-anim">
+									See gallery								</a>
+													</div>
+					</article>
+														<article class="page-slider-item _ItemPos-0  jsSliderNews-EntryContener">
+						<img src="http://photler.com/web/portfolio/theme1/img/blank.gif" data-image="http://photler.com/web/uploads/61/duze-zdjecia-wiml-068d2.jpg" alt="Addis Ababa" class="fadeIn" />
+
+						<div class="intro IsHidden jsSliderNews-IntroContener">
+							<header class="jsSliderNews-IntroContener-Text">
+								<h2>Ethiopia</h2>
+								<h1>Addis Ababa</h1>
+							</header>
+
+															<a href="http://worldinmylens.com/addis-ababa" title="Addis Ababa" class="_WhiteBorderBox bt-slide-anim">
+									See gallery								</a>
+													</div>
+					</article>
+							</div>
+		</section>
+	
+	
+		<section class="home-gmap-pusher jsHomeGmapPusherFixed"></section>
+		<section class="home-gmap jsAsideMenu-MainContener jsGmapCountriesmap-Contener jsHomeGmapFixed jsUserPanelHelp" data-manage="mapStyle,mapText">
+			<a class="back icon-ico-NavArrowLeft jsAsideMenu-ManinBackAnchor"><span>Back</span></a>
+			<div class="jsGmapCountriesmap-Map gmap-contener gmap-dark">
+
+									<div class="gmap" data-water-lightness="-74" data-land-lightness="-89" data-marker-normal="pin-01_light.png" data-marker-hover="pin-02_light.png"></div>
+				
+				<article class="">
+					<div class="vcenter">
+						<div>
+							<header class="header jsGalleryDescription-box afterAlignMiddle">
+								<h2></h2>
+								<h3></h3>
+							</header>
+						</div>
+					</div>
+				</article>
+
+				<a title="" class="ZoomIn jsGmapCountriesmap-ZoomIn"><i class="icon-ico-MapPlus"></i></a>
+				<a title="" class="ZoomOut jsGmapCountriesmap-ZoomOut"><i class="icon-ico-MapMunis"></i></a>
+				<img src="http://photler.com/web/portfolio/theme1//img/gmap/explore_my_world.png" alt="" class="ExploreMyWorld" />
+
+			</div>
+
+						<div class="aside-menu-contener">
+				
+					<div class="menu-item menuWithScrollBar bg-01 menu-col-01 jsAsideMenu-contener jsSlider-Contener">
+						<a class="nav-up icon-ico-NavArrowUp hide jsSlider-GoUp"></a>
+						<a class="nav-down icon-ico-NavArrowDown hide jsSlider-GoDown"></a>
+						<div class="overlay jsSlider-OverlayContener">
+							<div class="mover jsSlider-MoverContener">
+
+								
+								
+									<a href="" rev="jsAsideMenu-02-1" class="nav-url jsAsideMenu-Anchor jsGmapCountriesmap-FilterContient jsGmapCountriesmap-Continent_1">
+										<span class="ico icon-ico-ContinentEurope"></span>
+										<span class="WithUppercase">Europe</span>
+									</a>
+
+								
+									<a href="" rev="jsAsideMenu-02-2" class="nav-url jsAsideMenu-Anchor jsGmapCountriesmap-FilterContient jsGmapCountriesmap-Continent_2">
+										<span class="ico icon-ico-ContinentAsia"></span>
+										<span class="WithUppercase">Asia</span>
+									</a>
+
+								
+									<a href="" rev="jsAsideMenu-02-3" class="nav-url jsAsideMenu-Anchor jsGmapCountriesmap-FilterContient jsGmapCountriesmap-Continent_3">
+										<span class="ico icon-ico-ContinentNorthAmerica"></span>
+										<span class="WithUppercase">North America</span>
+									</a>
+
+								
+									<a href="" rev="jsAsideMenu-02-4" class="nav-url jsAsideMenu-Anchor jsGmapCountriesmap-FilterContient jsGmapCountriesmap-Continent_4">
+										<span class="ico icon-ico-ContinentSouthAmerica"></span>
+										<span class="WithUppercase">South America</span>
+									</a>
+
+								
+									<a href="" rev="jsAsideMenu-02-5" class="nav-url jsAsideMenu-Anchor jsGmapCountriesmap-FilterContient jsGmapCountriesmap-Continent_5">
+										<span class="ico icon-ico-ContinentAfrica"></span>
+										<span class="WithUppercase">Africa</span>
+									</a>
+
+								
+									<a href="" rev="jsAsideMenu-02-6" class="nav-url jsAsideMenu-Anchor jsGmapCountriesmap-FilterContient jsGmapCountriesmap-Continent_6">
+										<span class="ico icon-ico-ContinentOceania"></span>
+										<span class="WithUppercase">Oceania</span>
+									</a>
+
+															</div>
+						</div>
+					</div>
+
+					
+						<div class="menu-item menuWithScrollBar bg-02 menu-col-02 jsAsideMenu-02-1 closed jsSlider-Contener">
+							<a class="nav-up icon-ico-NavArrowUp hide jsSlider-GoUp"></a>
+							<a class="nav-down hide icon-ico-NavArrowDown hide jsSlider-GoDown"></a>
+							<div class="overlay jsSlider-OverlayContener">
+								<div class="mover jsSlider-MoverContener">
+																																								<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_3">
+												<span>Albania</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_12">
+												<span>Armenia</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_15">
+												<span>Austria</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_21">
+												<span>Belarus</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_22">
+												<span>Belgium</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_29">
+												<span>Bosnia and Herzegovina</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_35">
+												<span>Bulgaria</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_302">
+												<span>Croatia</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_305">
+												<span>Cyprus</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_306">
+												<span>Czech Republic</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_307">
+												<span>Denmark</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_316">
+												<span>Estonia</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_321">
+												<span>Finland</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_322">
+												<span>France</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_328">
+												<span>Georgia</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_329">
+												<span>Germany</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_332">
+												<span>Greece</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_333">
+												<span>Greenland</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_347">
+												<span>Hungary</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_348">
+												<span>Iceland</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_353">
+												<span>Ireland</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_356">
+												<span>Italy</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_552">
+												<span>Kosovo</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_369">
+												<span>Latvia</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_374">
+												<span>Liechtenstein</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_375">
+												<span>Lithuania</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_376">
+												<span>Luxembourg</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_378">
+												<span>Macedonia</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_384">
+												<span>Malta</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_392">
+												<span>Moldova</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_393">
+												<span>Monaco</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_395">
+												<span>Montenegro</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_403">
+												<span>Netherlands</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_412">
+												<span>Norway</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_423">
+												<span>Poland</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_424">
+												<span>Portugal</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_428">
+												<span>Romania</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_429">
+												<span>Russia</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_443">
+												<span>Serbia</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_448">
+												<span>Slovakia</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_449">
+												<span>Slovenia</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_455">
+												<span>Spain</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_461">
+												<span>Sweden</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_462">
+												<span>Switzerland</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_479">
+												<span>Ukraine</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_481">
+												<span>United Kingdom</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_344">
+												<span>Vatican</span>
+											</a>
+																											</div>
+							</div>
+						</div>
+
+					
+						<div class="menu-item menuWithScrollBar bg-02 menu-col-02 jsAsideMenu-02-2 closed jsSlider-Contener">
+							<a class="nav-up icon-ico-NavArrowUp hide jsSlider-GoUp"></a>
+							<a class="nav-down hide icon-ico-NavArrowDown hide jsSlider-GoDown"></a>
+							<div class="overlay jsSlider-OverlayContener">
+								<div class="mover jsSlider-MoverContener">
+																																								<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_16">
+												<span>Azerbaijan</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_18">
+												<span>Bahrain</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_19">
+												<span>Bangladesh</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_38">
+												<span>Cambodia</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_46">
+												<span>China</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_346">
+												<span>Hong Kong</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_349">
+												<span>India</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_350">
+												<span>Indonesia</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_351">
+												<span>Iran</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_355">
+												<span>Israel</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_360">
+												<span>Jordan</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_361">
+												<span>Kazakhstan</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_366">
+												<span>Kuwait</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_367">
+												<span>Kyrgyzstan</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_370">
+												<span>Lebanon</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_377">
+												<span>Macau</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_381">
+												<span>Malaysia</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_399">
+												<span>Myanmar</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_402">
+												<span>Nepal</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_413">
+												<span>Oman</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_426">
+												<span>Qatar</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_441">
+												<span>Saudi Arabia</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_446">
+												<span>Singapore</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_456">
+												<span>Sri Lanka</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_464">
+												<span>Taiwan</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_467">
+												<span>Thailand</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_474">
+												<span>Turkey</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_480">
+												<span>United Arab Emirates</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_485">
+												<span>Uzbekistan</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_488">
+												<span>Vietnam</span>
+											</a>
+																											</div>
+							</div>
+						</div>
+
+					
+						<div class="menu-item menuWithScrollBar bg-02 menu-col-02 jsAsideMenu-02-3 closed jsSlider-Contener">
+							<a class="nav-up icon-ico-NavArrowUp hide jsSlider-GoUp"></a>
+							<a class="nav-down hide icon-ico-NavArrowDown hide jsSlider-GoDown"></a>
+							<div class="overlay jsSlider-OverlayContener">
+								<div class="mover jsSlider-MoverContener">
+																																								<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_20">
+												<span>Barbados</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_40">
+												<span>Canada</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_303">
+												<span>Cuba</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_390">
+												<span>Mexico</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_425">
+												<span>Puerto Rico</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_434">
+												<span>Saint Lucia</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_447">
+												<span>Sint Maarten</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_482">
+												<span>United States</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_490">
+												<span>Virgin Islands</span>
+											</a>
+																											</div>
+							</div>
+						</div>
+
+					
+						<div class="menu-item menuWithScrollBar bg-02 menu-col-02 jsAsideMenu-02-4 closed jsSlider-Contener">
+							<a class="nav-up icon-ico-NavArrowUp hide jsSlider-GoUp"></a>
+							<a class="nav-down hide icon-ico-NavArrowDown hide jsSlider-GoDown"></a>
+							<div class="overlay jsSlider-OverlayContener">
+								<div class="mover jsSlider-MoverContener">
+																																								<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_11">
+												<span>Argentina</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_32">
+												<span>Brazil</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_45">
+												<span>Chile</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_419">
+												<span>Paraguay</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_420">
+												<span>Peru</span>
+											</a>
+																											</div>
+							</div>
+						</div>
+
+					
+						<div class="menu-item menuWithScrollBar bg-02 menu-col-02 jsAsideMenu-02-5 closed jsSlider-Contener">
+							<a class="nav-up icon-ico-NavArrowUp hide jsSlider-GoUp"></a>
+							<a class="nav-down hide icon-ico-NavArrowDown hide jsSlider-GoDown"></a>
+							<div class="overlay jsSlider-OverlayContener">
+								<div class="mover jsSlider-MoverContener">
+																																								<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_30">
+												<span>Botswana</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_312">
+												<span>Egypt</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_317">
+												<span>Ethiopia</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_371">
+												<span>Lesotho</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_388">
+												<span>Mauritius</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_397">
+												<span>Morocco</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_400">
+												<span>Namibia</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_444">
+												<span>Seychelles</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_452">
+												<span>South Africa</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_460">
+												<span>Swaziland</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_466">
+												<span>Tanzania</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_473">
+												<span>Tunisia</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_478">
+												<span>Uganda</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_494">
+												<span>Zambia</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_495">
+												<span>Zimbabwe</span>
+											</a>
+																											</div>
+							</div>
+						</div>
+
+					
+						<div class="menu-item menuWithScrollBar bg-02 menu-col-02 jsAsideMenu-02-6 closed jsSlider-Contener">
+							<a class="nav-up icon-ico-NavArrowUp hide jsSlider-GoUp"></a>
+							<a class="nav-down hide icon-ico-NavArrowDown hide jsSlider-GoDown"></a>
+							<div class="overlay jsSlider-OverlayContener">
+								<div class="mover jsSlider-MoverContener">
+																																								<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_14">
+												<span>Australia</span>
+											</a>
+																																																		<a class="nav-url jsGmapCountriesmap-FilterCountry jsGmapCountriesmap-Country_405">
+												<span>New Zealand</span>
+											</a>
+																											</div>
+							</div>
+						</div>
+
+									
+			</div>
+		</section>
+	
+	
+			<section class="ir-grid ir-home-grid _ir-grid-ColspanOf4 wiml-gallerieslist PkBgBottom _Modulo-1 jsGalleryHome-List jsGalleryView-ThumbGrid jsLayoutSymmetric wrapper-symmetric jsUserPanelHelp" data-manage="galleryManage,galleryAdd,folderAdd,statsManage">
+						<div class="gmap-contener ir-grid-item jsGalleryHome-Map gmap-dark"><div class="gmap"></div></div>
+		
+		
+					
+				
+				
+					
+					
+					<article class="ir-grid-item jsGalleryHome-ListItem  jsGalleryHome-GeoLat_-25.2637399000 jsGalleryHome-GeoLng_-57.5759260000 ir-grid-home-symmetric " >
+						<!--<a href="http://worldinmylens.com/paraguay" class="anchor">-->
+						<a href="http://worldinmylens.com/paraguay" class="anchor">
+							<div class="mover jsGalleryHome-ListItemMover">
+								<div class="intro jsGalleryHome-ListItemFront">
+
+
+
+										<img src="http://photler.com/web/portfolio/theme1/img/grid-spacer.png" data-src="http://photler.com/web/uploads/09/dji-0310-4404d.jpg" data-mobile="http://photler.com/web/uploads/09/dji-0310-103f9.jpg" alt="Paraguay" class="jsLazyLoad" />
+																		<div class="text _VAlignedText">
+										<header>
+											<h2>January 2019</h2>
+											<h1>Paraguay</h1>
+										</header>
+									</div>
+								</div>
+
+								<div class="hover jsGalleryHome-ListItemBack test2">
+									<div class="_VAlignedText">
+										<header>
+											<h2>See gallery</h2>
+											<h1>Paraguay</h1>
+										</header>
+									</div>
+								</div>
+							</div>
+						</a>
+					</article>
+
+												
+		
+					
+					
+					<article class="ir-grid-item jsGalleryHome-ListItem  jsGalleryHome-GeoLat_-15.3122767000 jsGalleryHome-GeoLng_29.6035495000 ir-grid-home-symmetric " >
+						<!--<a href="http://worldinmylens.com/zambia" class="anchor">-->
+						<a href="http://worldinmylens.com/zambia" class="anchor">
+							<div class="mover jsGalleryHome-ListItemMover">
+								<div class="intro jsGalleryHome-ListItemFront">
+
+
+
+										<img src="http://photler.com/web/portfolio/theme1/img/grid-spacer.png" data-src="http://photler.com/web/uploads/06/wiml5616-d4e86.jpg" data-mobile="http://photler.com/web/uploads/06/wiml5616-60d1a.jpg" alt="Zambia" class="jsLazyLoad" />
+																		<div class="text _VAlignedText">
+										<header>
+											<h2>April 2017</h2>
+											<h1>Zambia</h1>
+										</header>
+									</div>
+								</div>
+
+								<div class="hover jsGalleryHome-ListItemBack test2">
+									<div class="_VAlignedText">
+										<header>
+											<h2>See gallery</h2>
+											<h1>Zambia</h1>
+										</header>
+									</div>
+								</div>
+							</div>
+						</a>
+					</article>
+
+												
+				
+				
+					
+			
+							<article class="ir-grid-item _FillBottomUpText _BottomTextNum1">
+					<div class="inner">
+						<div class="info bgBlack10">
+							<div class="_VAlignedText">
+								<header>
+									<h2 class="statsText"><span class="jsOdometer statb_photo">170</span></h2>
+									<h1 class="statsText">photo galleries</h1>
+								</header>
+							</div>
+						</div>
+					</div>
+				</article>
+							<article class="ir-grid-item _FillBottomUpText _BottomTextNum2">
+					<div class="inner">
+						<div class="info bgBlack05">
+							<div class="_VAlignedText">
+								<header>
+									<h2 class="statsText"><span class="jsOdometer statb_pictures">5936</span></h2>
+									<h1 class="statsText">pictures taken</h1>
+								</header>
+							</div>
+						</div>
+					</div>
+				</article>
+							<article class="ir-grid-item _FillBottomUpText _BottomTextNum3">
+					<div class="inner">
+						<div class="info bgBlack02">
+							<div class="_VAlignedText">
+								<header>
+									<h2 class="statsText"><span class="jsOdometer statb_countries">109</span></h2>
+									<h1 class="statsText">countries visited</h1>
+								</header>
+							</div>
+						</div>
+					</div>
+				</article>
+							<article class="ir-grid-item _FillBottomUpText _BottomTextNum4">
+					<div class="inner">
+						<div class="info bgBlack10">
+							<div class="_VAlignedText">
+								<header>
+									<h2 class="statsText"><span class="jsOdometer statb_years">14</span></h2>
+									<h1 class="statsText">years of traveling</h1>
+								</header>
+							</div>
+						</div>
+					</div>
+				</article>
+			
+
+		
+
+	</section>
+
+
+	
+
+
+	<!-- BLOG SECTION -->
+	<article class="blogPageContent">
+			</article>
+
+
+
+
+
+
+<footer>
+
+		
+	
+		<section class="nonewsletter">
+			<div class="ga">
+				<div class="copyright _VAlignedText">
+					<div><!-- 9 -->
+						Copyright by <a href="http://worldinmylens.com/">
+							<span data-hover="Piotr Kulczycki">Piotr Kulczycki</span>
+						</a>
+					</div>
+				</div>
+									<div class="design-by _VAlignedText">
+						<div>
+							<a href="http://www.photler.com">
+								<span>Powered by Photler</span>
+							</a>
+						</div>
+					</div>
+							</div>
+		</section>
+
+	
+</footer>
+
+<a id="scroll-top" href="#loader"><span class="icon-arrow-up"></span></a>
+<script type="text/javascript" src="http://photler.com/web/portfolio/theme1/js/min.js?20190530" async></script>
+			<script type="text/javascript">
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-2189644-1']);
+		  _gaq.push(['_trackPageview', location.pathname + location.search + location.hash]);
+
+		  (function () {
+				var ga = document.createElement('script');
+				ga.type = 'text/javascript';
+				ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(ga, s);
+		  })();
+	 </script>
+	
+		</body>
+</html>
